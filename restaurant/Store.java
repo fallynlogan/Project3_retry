@@ -5,9 +5,6 @@ public class Store {
     public static HashMap<String, Integer> inventory;
     private Integer rollStartCount = 5;
     public Customer[] customers;
-    public static Bookkeeper bookkeeper;
-    public static Announcer announcer;
-
 
     public Store(int numDays) {
         Random rand = new Random();
@@ -18,6 +15,18 @@ public class Store {
         inventory.put("numSausageRolls", rollStartCount);
         inventory.put("numJellyRolls", rollStartCount);
         int rollsWanted = 0;
+
+        /*MyUnitTests unitTests = new MyUnitTests();
+        unitTests.eggRollCountTest();
+        unitTests.eggRollPriceTest();
+        unitTests.pastryRollCountTest();
+        unitTests.pastryRollPriceTest();
+        unitTests.jellyRollCountTest();
+        unitTests.jellyRollPriceTest();
+        unitTests.sausageRollCountTest();
+        unitTests.sausageRollPriceTest();
+        unitTests.springRollCountTest();
+        unitTests.springRollPriceTest();*/
 
         System.out.println("---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------\n\n");
         for(int i=1 ; i<=numDays ; i++)
