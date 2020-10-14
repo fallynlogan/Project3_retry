@@ -6,31 +6,19 @@ public class Store {
     private Integer rollStartCount = 5;
     public Customer[] customers;
 
-    public Store(int numDays) {
-        Random rand = new Random();
+    public Store(int numDays) 
+    {
         inventory = new HashMap<String, Integer>();
         inventory.put("numSprRolls", rollStartCount);
         inventory.put("numEggRolls", rollStartCount);
         inventory.put("numPastryRolls",rollStartCount);
         inventory.put("numSausageRolls", rollStartCount);
         inventory.put("numJellyRolls", rollStartCount);
-        int rollsWanted = 0;
+        
 
         FoodItem springRoll  = new SpringRoll();
         springRoll =  new ToppingDecorator(springRoll);
         System.out.println(springRoll.getDescription() + " $" + springRoll.cost());
-
-        /*MyUnitTests unitTests = new MyUnitTests();
-        unitTests.eggRollCountTest();
-        unitTests.eggRollPriceTest();
-        unitTests.pastryRollCountTest();
-        unitTests.pastryRollPriceTest();
-        unitTests.jellyRollCountTest();
-        unitTests.jellyRollPriceTest();
-        unitTests.sausageRollCountTest();
-        unitTests.sausageRollPriceTest();
-        unitTests.springRollCountTest();
-        unitTests.springRollPriceTest();*/
 
         System.out.println("---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------\n\n");
         for(int i=1 ; i<=numDays ; i++)
@@ -65,6 +53,11 @@ public class Store {
 
             for(int j=0 ; j<customers.length ; j++){
                 System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
+                System.out.println(customers[j].getName() + " wants to buy " + customers[j].getRollsWanted() + " roll(s).");
+                if(customers[j].checkInventorySoldOut()){
+                    System.out.println("\n====================================================================================================\n");
+                    break;
+                }
                 System.out.println("\n====================================================================================================\n");
             }
 
