@@ -1,12 +1,14 @@
 package restaurant;
 
+import java.text.DecimalFormat;
+
 public class Bookkeeper extends Employee{
     public Bookkeeper(){
 
     }
 
     public void printDailyReport(int dayNum){
-        System.out.println("---------- DAILY REPORT FOR DAY " + dayNum + " ----------");
+        System.out.println("_______________ DAILY REPORT FOR DAY " + dayNum + " _______________");
 
         System.out.println("Leftover Spring Rolls: " + Store.inventory.get("numSprRolls"));
         System.out.println("Total Revenue for Spring Rolls: " + dailySpringSales);
@@ -45,7 +47,32 @@ public class Bookkeeper extends Employee{
         System.out.println("\n====================================================================================================\n");
     }
 
-    /*public void printReceipt(){
+
+    @Override
+    public void update(){
+        /*switch(currentCustomer.getCurrentEvent()){
+            case "print receipt":
+                break;
+            case"print daily report":
+                printDailyReport(Store.dayNumber);
+                break;
+            case "print final report":
+                break;
+        }*/
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*public void printReceipt(){
 
         DecimalFormat df = new DecimalFormat();
         df.setMaximumFractionDigits(2);
@@ -55,24 +82,18 @@ public class Bookkeeper extends Employee{
         if(currentCustomer.rollOrder.length>0){
             System.out.println(currentCustomer.getName() + "'s Purchase:");
             for(int i=0 ; i<currentCustomer.rollOrder.length ; i++){
-                System.out.println("1 " + currentCustomer.rollOrder[i].getName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getFoodPrice()));
-                if(currentCustomer.rollOrder[i].getFillQuantity()>0){
-                    System.out.println(currentCustomer.rollOrder[i].getFillQuantity() + " " + currentCustomer.rollOrder[i].getFillName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getFillPrice()));
+                System.out.println("1 " + currentCustomer.rollOrder[i].rollName + "  @  $" + df.format(currentCustomer.rollOrder[i].rollPrice));
+                if(currentCustomer.rollOrder[i].extraFill>0){
+                    System.out.println(currentCustomer.rollOrder[i].extraFill + " " + currentCustomer.rollOrder[i].getFillName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getFillPrice()));
                 }
-                if(currentCustomer.rollOrder[i].getSauceQuantity()>0){
-                    System.out.println(currentCustomer.rollOrder[i].getSauceQuantity() + " " + currentCustomer.rollOrder[i].getSauceName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getSaucePrice()));
+                if(currentCustomer.rollOrder[i].extraSauce>0){
+                    System.out.println(currentCustomer.rollOrder[i].extraSauce + " " + currentCustomer.rollOrder[i].getSauceName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getSaucePrice()));
                 }
-                if(currentCustomer.rollOrder[i].getToppingQuantity()>0){
-                    System.out.println(currentCustomer.rollOrder[i].getToppingQuantity() + " " + currentCustomer.rollOrder[i].getToppingName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getExtraToppingPrice()));
+                if(currentCustomer.rollOrder[i].extraTop>0){
+                    System.out.println(currentCustomer.rollOrder[i].extraTop + " " + currentCustomer.rollOrder[i].getToppingName() + "  @  $" + df.format(currentCustomer.rollOrder[i].getExtraToppingPrice()));
                 }
                 currentCustomer.totalOrderCost += currentCustomer.rollOrder[i].getTotalPriceSingleRoll();
             }
             System.out.println("Total = $" + df.format(currentCustomer.totalOrderCost));
         }
     }*/
-
-    @Override
-    public void update(){
-
-    }
-}

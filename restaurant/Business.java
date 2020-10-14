@@ -24,6 +24,7 @@ public class Business extends Customer {
 
         if(!isCompleteOrder()){
             this.currentEvent = "business order failed";
+            Store.bookkeeper.businessRollOutages++;
             notifyObservers();
         }
         else{
@@ -35,13 +36,14 @@ public class Business extends Customer {
             this.rollOrder[6] = new SausageRoll(); this.rollOrder[7] = new SausageRoll();
             this.rollOrder[8] = new JellyRoll(); this.rollOrder[9] = new JellyRoll();
 
-            for(int i=0 ; i<this.rollsWanted ; i++){
+            numRollsBought = 10;
+
+            for(int i=0 ; i<numRollsBought ; i++){
                 rollOrder[i] = new SauceDecorator(rollOrder[i]);
                 rollOrder[i] = new FillingDecorator(rollOrder[i]);
                 rollOrder[i] = new ToppingDecorator(rollOrder[i]);
             }
 
-            numRollsBought = 10;
 
             this.currentEvent = "actual order";
             notifyObservers();
@@ -77,6 +79,21 @@ public class Business extends Customer {
             currentRollInventoryVal = Store.inventory.get("numPastryRolls"); Store.inventory.put("numPastryRolls",currentRollInventoryVal-2);
             currentRollInventoryVal = Store.inventory.get("numSausageRolls"); Store.inventory.put("numSausageRolls",currentRollInventoryVal-2);
             currentRollInventoryVal = Store.inventory.get("numJellyRolls"); Store.inventory.put("numJellyRolls",currentRollInventoryVal-2);
+
+
+            //Store.bookkeeper.dailyBusinessSales += 10;
+            Store.bookkeeper.dailyTotalSpringOrders += 2;
+            Store.bookkeeper.dailyTotalEggOrders += 2;
+            Store.bookkeeper.dailyTotalPastryOrders += 2;
+            Store.bookkeeper.dailyTotalSausageOrders += 2;
+            Store.bookkeeper.dailyTotalJellyOrders += 2;
+            //Store.bookkeeper.dailyBusinessSales += 10;
+            //Store.bookkeeper.dailySpringSales += 2;
+            //Store.bookkeeper.dailyEggSales += 2;
+            //Store.bookkeeper.dailyPastrySales += 2;
+            //Store.bookkeeper.dailySausageSales += 2;
+            //Store.bookkeeper.dailyJellySales += 2;
+
 
 
         }

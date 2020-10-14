@@ -4,6 +4,7 @@ import java.util.*;
 public class Store {
     public static HashMap<String, Integer> inventory;
     public static int rollStartCount = 30;
+    public static int dayNumber = 0;
     public static Customer[] customers;
     public static Bookkeeper bookkeeper;
     public static Announcer announcer;
@@ -28,6 +29,7 @@ public class Store {
         for(int i=1 ; i<=numDays ; i++)
         {
             customers = CustomerFactory.createDailyCustomers();
+            //bookkeeper.resetDailyValues();
             //print out each day number
             System.out.println("Today is Day " + i + ".");
             //at the start of each day if the roll is out of stock reset count to 30 (make more)
@@ -57,28 +59,31 @@ public class Store {
 
             for(int j=0 ; j<customers.length ; j++){
                 announcer.currentCustomer = customers[j];
+                bookkeeper.currentCustomer = customers[j];
                 customers[j].arrive();
                 customers[j].purchaseRoll();
+
                 if(checkInventorySoldOut()){
                     customers[j].sold_out();
+                    bookkeeper.earlyClosure = true;
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
                 customers[j].leave();
                 System.out.println("\n====================================================================================================\n");
             }
+            bookkeeper.printDailyReport(i);
 
             //print out the inventory at the end of each day
-            System.out.println("\nInventory at the end of Day " + i + ".");
-            System.out.println("Leftover Spring Rolls: " + inventory.get("numSprRolls"));
-            System.out.println("Leftover Egg Rolls: " + inventory.get("numEggRolls"));
-            System.out.println("Leftover Pastry Rolls: " + inventory.get("numPastryRolls"));
-            System.out.println("Leftover Sausage Rolls: " + inventory.get("numSausageRolls"));
-            System.out.println("Leftover Jelly Rolls: " + inventory.get("numJellyRolls"));
+            //System.out.println("\nInventory at the end of Day " + i + ".");
+            //System.out.println("Leftover Spring Rolls: " + inventory.get("numSprRolls"));
+            //System.out.println("Leftover Egg Rolls: " + inventory.get("numEggRolls"));
+            //System.out.println("Leftover Pastry Rolls: " + inventory.get("numPastryRolls"));
+            //System.out.println("Leftover Sausage Rolls: " + inventory.get("numSausageRolls"));
+            //System.out.println("Leftover Jelly Rolls: " + inventory.get("numJellyRolls"));
             System.out.println("\n====================================================================================================\n");
 
-            //print out daily report of sales analysis
-            //bookkeeper.printDailyReport(i);
+
         }
 
     }
