@@ -1,0 +1,573 @@
+---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
+
+
+Today is Day 1.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 1.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 2.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 2.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 3.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 3.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 4.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 4.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 5.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 5.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 6.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 6.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 7.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 7.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 8.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 8.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 9.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 9.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 10.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 10.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 11.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 11.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 12.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 12.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 13.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 13.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 14.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 14.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 15.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 15.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 16.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 16.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 17.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 17.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 18.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 18.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 19.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 19.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 20.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 20.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 21.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 21.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 22.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 22.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 23.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 23.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 24.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 24.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 25.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 25.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 26.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 26.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 27.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 27.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 28.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 28.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 29.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 29.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
+Today is Day 30.
+Initial Spring Rolls: 2
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
+
+====================================================================================================
+
+
+Inventory at the end of Day 30.
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+
+====================================================================================================
+
