@@ -15,7 +15,6 @@ public class Store {
         inventory.put("numSausageRolls", rollStartCount);
         inventory.put("numJellyRolls", rollStartCount);
         
-
         FoodItem springRoll  = new SpringRoll();
         springRoll =  new ToppingDecorator(springRoll);
         System.out.println(springRoll.getDescription() + " $" + springRoll.cost());

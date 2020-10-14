@@ -25,5 +25,7 @@ public abstract class Customer {
         }
     }
     
+    public FoodItem[] rollOrder;
+    public double totalOrderCost = 0.0;
 
 }
