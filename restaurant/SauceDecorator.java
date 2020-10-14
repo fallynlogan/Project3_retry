@@ -4,7 +4,7 @@ public abstract class SauceDecorator extends ExtraDecorator {
     FoodItem foodItem;
     String newDescription = "";
 
-    public FillingDecorator(FoodItem foodItem)
+    public SauceDecorator(FoodItem foodItem)
     {
         this.foodItem = foodItem;
     }
