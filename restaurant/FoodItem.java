@@ -3,6 +3,8 @@ package restaurant;
 public abstract class FoodItem {
     protected String rollName; 
     protected double rollPrice;
+    Boolean soldOut;
+
 
     String description = "Unknown FoodItem";
 

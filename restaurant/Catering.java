@@ -6,4 +6,8 @@ public class Catering extends Customer {
         this.name = n;
         this.rollsWanted = 15;
     }
+
+    public void purchaseRoll() {
+
+    }
 }

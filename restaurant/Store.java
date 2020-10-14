@@ -5,6 +5,8 @@ public class Store {
     public static HashMap<String, Integer> inventory;
     private Integer rollStartCount = 5;
     public Customer[] customers;
+    public static Bookkeeper bookkeeper;
+    public static Announcer announcer;
 
     public Store(int numDays) 
     {
@@ -68,6 +70,9 @@ public class Store {
             System.out.println("Leftover Sausage Rolls: " + inventory.get("numSausageRolls"));
             System.out.println("Leftover Jelly Rolls: " + inventory.get("numJellyRolls"));
             System.out.println("\n====================================================================================================\n");
+
+            //print out daily report of sales analysis
+            bookkeeper.printDailyReport(i);
         }
 
     }

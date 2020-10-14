@@ -8,6 +8,8 @@ public class Business extends Customer {
         this.rollsWanted = 10;
     }
 
+    public void purchaseRoll(){
 
+    }
 
 }

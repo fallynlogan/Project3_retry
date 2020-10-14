@@ -2,9 +2,14 @@ package restaurant;
 
 public abstract class Customer {
     protected String name;
-    protected int rollsWanted; 
     public String getName() { return name; }
-    public int getRollsWanted() { return rollsWanted;  }
+    protected int rollsWanted;
+    public int getRollsWanted() { return rollsWanted; }
+
+    protected String currentEvent;     //observer event flag
+    public String getCurrentEvent(){
+        return currentEvent;
+    }
 
     public Boolean checkInventorySoldOut()
     {
@@ -24,8 +29,10 @@ public abstract class Customer {
             return false;
         }
     }
-    
+
     public FoodItem[] rollOrder;
     public double totalOrderCost = 0.0;
+
+    public abstract void purchaseRoll();
 
 }

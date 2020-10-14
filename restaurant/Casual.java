@@ -8,4 +8,8 @@ public class Casual extends Customer{
         this.name = n;
         this.rollsWanted = rand.nextInt(2)+1;
     }
+
+    public void purchaseRoll(){
+
+    }
 }
