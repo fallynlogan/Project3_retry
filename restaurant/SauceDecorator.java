@@ -1,6 +1,6 @@
 package restaurant;
 
-public abstract class SauceDecorator extends ExtraDecorator {
+public class SauceDecorator extends ExtraDecorator {
     FoodItem foodItem;
     String newDescription = "";
 
