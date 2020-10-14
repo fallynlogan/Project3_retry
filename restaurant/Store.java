@@ -57,14 +57,14 @@ public class Store {
 
             for(int j=0 ; j<customers.length ; j++){
                 announcer.currentCustomer = customers[j];
-                System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
-                //customers[j].arrive();
+                //System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
+                customers[j].arrive();
                 customers[j].purchaseRoll();
                 if(customers[j].checkInventorySoldOut()){
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
-                //customers[j].leave();
+                customers[j].leave();
                 System.out.println("\n====================================================================================================\n");
             }
 

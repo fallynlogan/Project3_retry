@@ -6,9 +6,21 @@ public abstract class Customer {
     protected int rollsWanted;
     public int getRollsWanted() { return rollsWanted; }
 
-    protected String currentEvent;     //observer event flag
+    protected String currentEvent;    //observer event flag
     public String getCurrentEvent(){
         return currentEvent;
+    }
+
+    public void arrive()
+    {
+        this.currentEvent = "arrival";
+        notifyObservers();
+    }
+
+    public void leave()
+    {
+        this.currentEvent = "leave store";
+        notifyObservers();
     }
 
     public Boolean checkInventorySoldOut()
