@@ -57,10 +57,10 @@ public class Store {
 
             for(int j=0 ; j<customers.length ; j++){
                 announcer.currentCustomer = customers[j];
-                //System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
                 customers[j].arrive();
                 customers[j].purchaseRoll();
-                if(customers[j].checkInventorySoldOut()){
+                if(checkInventorySoldOut()){
+                    customers[j].sold_out();
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
@@ -82,4 +82,25 @@ public class Store {
         }
 
     }
+
+    public Boolean checkInventorySoldOut()
+    {
+        int springRoll, eggRoll, pastryRoll, sausageRoll, jellyRoll;
+        springRoll = Store.inventory.get("numSprRolls");
+        eggRoll = Store.inventory.get("numEggRolls");
+        pastryRoll = Store.inventory.get("numPastryRolls");
+        sausageRoll = Store.inventory.get("numSausageRolls");
+        jellyRoll = Store.inventory.get("numJellyRolls");
+
+        if(springRoll==0 && eggRoll==0 && pastryRoll==0 && sausageRoll==0 && jellyRoll==0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+        
+    }
+
 }

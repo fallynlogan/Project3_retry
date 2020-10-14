@@ -23,23 +23,10 @@ public abstract class Customer {
         notifyObservers();
     }
 
-    public Boolean checkInventorySoldOut()
+    public void sold_out()
     {
-        int springRoll, eggRoll, pastryRoll, sausageRoll, jellyRoll;
-        springRoll = Store.inventory.get("numSprRolls");
-        eggRoll = Store.inventory.get("numEggRolls");
-        pastryRoll = Store.inventory.get("numPastryRolls");
-        sausageRoll = Store.inventory.get("numSausageRolls");
-        jellyRoll = Store.inventory.get("numJellyRolls");
-        if(springRoll==0 && eggRoll==0 && pastryRoll==0 && sausageRoll==0 && jellyRoll==0)
-        {
-            System.out.println("THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!");
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        this.currentEvent = "sold out all rolls";
+        notifyObservers();
     }
 
     public FoodItem[] rollOrder;
