@@ -5,6 +5,10 @@ public abstract class Customer {
     public String getName() { return name; }
     protected int rollsWanted;
     public int getRollsWanted() { return rollsWanted; }
+    protected int numRollsBought;
+    public int getNumRollsBought() { return numRollsBought; }
+
+    public String soldOutName;
 
     protected String currentEvent;    //observer event flag
     public String getCurrentEvent(){
@@ -43,11 +47,11 @@ public abstract class Customer {
             if(initialOrder[i].getDescription()=="Jelly Roll"){ jellyCount++; }
         }
         String initialOrderString = "";
-        /*if(springCount>0) { */initialOrderString += (springCount + " Spring, "); //}
-        /*if(eggCount>0) { */initialOrderString += (eggCount + " Egg, "); //}
-        /*if(pastryCount>0) {*/ initialOrderString += (pastryCount + " Pastry, "); //}
-        /*if(sausageCount>0) { */initialOrderString += (sausageCount + " Sausage, & "); //}
-        /*if(jellyCount>0) { */initialOrderString += (jellyCount + " Jelly Roll(s)"); //}
+        initialOrderString += (springCount + " Spring, ");
+        initialOrderString += (eggCount + " Egg, ");
+        initialOrderString += (pastryCount + " Pastry, ");
+        initialOrderString += (sausageCount + " Sausage, & ");
+        initialOrderString += (jellyCount + " Jelly Roll(s)");
         System.out.println(this.getName() + " wants to purchase " + initialOrderString);
     }
 

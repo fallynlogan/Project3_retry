@@ -17,7 +17,7 @@ public class Announcer extends Employee{
                 currentCustomer.getInitialOrder();
                 break;
             case "actual order":
-                for(int i=0; i < currentCustomer.rollOrder.length; i++){
+                for(int i=0; i < currentCustomer.getNumRollsBought() ; i++){
                     System.out.println(currentCustomer.getName() +  " purchased 1 " + currentCustomer.rollOrder[i].getDescription() + ".");
                 }
                 break;
@@ -31,7 +31,7 @@ public class Announcer extends Employee{
                 System.out.println("Sorry " + currentCustomer.getName() + "! Your order cannot be completed entirely!");
                 break;
             case "sold out single roll":
-                //System.out.println("ATTENTION! Jelly Rolls are now currently unavailable. Sorry for the inconvenience!");
+                System.out.println("ATTENTION! " + currentCustomer.soldOutName + "s are now currently unavailable. Sorry for the inconvenience!");
                 break;
             case "sold out all rolls":
                 System.out.println("THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!");

@@ -3,8 +3,8 @@ import java.util.*;
 
 public class Store {
     public static HashMap<String, Integer> inventory;
-    private Integer rollStartCount = 5;
-    public Customer[] customers;
+    public static int rollStartCount = 30;
+    public static Customer[] customers;
     public static Bookkeeper bookkeeper;
     public static Announcer announcer;
 
@@ -100,7 +100,7 @@ public class Store {
         {
             return false;
         }
-        
+
     }
 
 }

@@ -7,13 +7,14 @@ public class Casual extends Customer{
         Random rand = new Random();
         this.name = n;
         this.rollsWanted = rand.nextInt(3)+1;
+        this.numRollsBought = 0;
     }
 
     public void calculateInitialOrder(){
         Random rand = new Random();
 
-        initialOrder = new FoodItem[this.rollsWanted];
-        for(int i=0 ; i<this.rollsWanted ; i++){
+        initialOrder = new FoodItem[rollsWanted];
+        for(int i=0 ; i<rollsWanted ; i++){
             int randomRollType = rand.nextInt(5) + 1;
             if(randomRollType==1){
                 initialOrder[i] = new SpringRoll();
@@ -36,64 +37,118 @@ public class Casual extends Customer{
     public void purchaseRoll(){
         Random rand = new Random();
 
-        rollOrder = new FoodItem[this.rollsWanted];
-        initialOrder = new FoodItem[this.rollsWanted];
-
-        int currentRollInventoryVal = 0;       //value to save the inventory amount of a specific roll for comparison
-
-        int index=0;        //rollOrder index
-        boolean finish = false;   //set to true when all possible rolls have been purchased
+        rollOrder = new FoodItem[rollsWanted];
 
         calculateInitialOrder();
         currentEvent = "desired order";
         notifyObservers();
 
-        while(!finish){
+        int index=0;        // current rollOrder index
+
+        /*while(index<rollsWanted){
+            int currentRollInventoryVal;       //value to save the inventory amount of a specific roll type
             if(initialOrder[index].getDescription()=="Spring Roll"){
-                if(Store.inventory.get("numSprRolls")>0){
-                    rollOrder[index] = initialOrder[index];
-                    index++;
+                currentRollInventoryVal = Store.inventory.get("numSprRolls");
+                if(currentRollInventoryVal==1){
+                    Store.inventory.put("numSprRolls",0);
+                    currentEvent = "sold out single roll";
+                    notifyObservers();
+                    numRollsBought++;
                 }
-                else{
-                    this.currentEvent = "";
+                else if(currentRollInventoryVal>0){
+                    Store.inventory.put("numSprRolls",currentRollInventoryVal-1);
+                    rollOrder[index] = initialOrder[index];
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal==0){
+                    currentEvent = "casual order modified";
+                    notifyObservers();
+                    index--;
                 }
             }
             else if(initialOrder[index].getDescription()=="Egg Roll"){
-                if(Store.inventory.get("numSprRolls")>0){
+                currentRollInventoryVal = Store.inventory.get("numEggRolls");
+                if(currentRollInventoryVal==1){
+                    Store.inventory.put("numEggRolls",0);
+                    currentEvent = "sold out single roll";
+                    notifyObservers();
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal>0){
+                    Store.inventory.put("numEggRolls",currentRollInventoryVal-1);
                     rollOrder[index] = initialOrder[index];
-                    index++;
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal==0){
+                    currentEvent = "casual order modified";
+                    notifyObservers();
+                    index--;
                 }
             }
             else if(initialOrder[index].getDescription()=="Pastry Roll"){
-                if(Store.inventory.get("numSprRolls")>0){
+                currentRollInventoryVal = Store.inventory.get("numPastryRolls");
+                if(currentRollInventoryVal==1){
+                    Store.inventory.put("numPastryRolls",0);
+                    currentEvent = "sold out single roll";
+                    notifyObservers();
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal>0){
+                    Store.inventory.put("numPastryRolls",currentRollInventoryVal-1);
                     rollOrder[index] = initialOrder[index];
-                    index++;
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal==0){
+                    currentEvent = "casual order modified";
+                    notifyObservers();
+                    index--;
                 }
             }
             else if(initialOrder[index].getDescription()=="Sausage Roll"){
-                if(Store.inventory.get("numSprRolls")>0){
+                currentRollInventoryVal = Store.inventory.get("numSausageRolls");
+                if(currentRollInventoryVal==1){
+                    Store.inventory.put("numSausageRolls",0);
+                    currentEvent = "sold out single roll";
+                    notifyObservers();
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal>0){
+                    Store.inventory.put("numSausageRolls",currentRollInventoryVal-1);
                     rollOrder[index] = initialOrder[index];
-                    index++;
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal==0){
+                    currentEvent = "casual order modified";
+                    notifyObservers();
+                    index--;
                 }
             }
             else if(initialOrder[index].getDescription()=="Jelly Roll"){
-                if(Store.inventory.get("numSprRolls")>0){
+                currentRollInventoryVal = Store.inventory.get("numJellyRolls");
+                if(currentRollInventoryVal==1){
+                    Store.inventory.put("numJellyRolls",0);
+                    currentEvent = "sold out single roll";
+                    notifyObservers();
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal>0){
+                    Store.inventory.put("numJellyRolls",currentRollInventoryVal-1);
                     rollOrder[index] = initialOrder[index];
-                    index++;
+                    numRollsBought++;
+                }
+                else if(currentRollInventoryVal==0){
+                    currentEvent = "casual order modified";
+                    notifyObservers();
+                    index--;
                 }
             }
-            if(index==rollsWanted){
-                finish = true;
-            }
-            if(checkInventorySoldOut()){
-                currentEvent = "sold out all rolls";
-                notifyObservers();
-                finish = true;
-            }
+            index++;
         }
         currentEvent = "actual order";
-        notifyObservers();
+        notifyObservers();*/
 
+
+        //First Attempt
         /*while(!finish){
             int randomRollType = rand.nextInt(5) + 1;
             if(randomRollType==1){
