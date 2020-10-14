@@ -14,11 +14,15 @@ public class Announcer extends Employee{
                 System.out.println(currentCustomer.getName() + " the " + currentCustomer.getClass().getSimpleName() + " Customer has arrived at the store!");
                 break;
             case "desired order":
+                currentCustomer.getInitialOrder();
                 break;
             case "actual order":
-                for(int i =0; i < currentCustomer.rollOrder.length; i++){
-                    System.out.println(currentCustomer.getName() +  " purchased a " + currentCustomer.rollOrder[i].getDescription());
+                for(int i=0; i < currentCustomer.rollOrder.length; i++){
+                    System.out.println(currentCustomer.getName() +  " purchased 1 " + currentCustomer.rollOrder[i].getDescription() + ".");
                 }
+                break;
+            case "casual order modified":
+                System.out.println("Sorry " + currentCustomer.getName() + "! One or more roll types in your order is unavailable.");
                 break;
             case "business order failed":
                 System.out.println("Sorry " + currentCustomer.getName() + "! The order can not be fulfilled!");
@@ -33,6 +37,10 @@ public class Announcer extends Employee{
                 System.out.println("THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!");
                 break;
             case "leave store":
+                System.out.println(currentCustomer.getName() + " has left the store. Thank you and have a great day!");
+                break;
+            default:
+                System.out.println("There is an incorrect currentEvent key somewhere. Good luck finding it you will need it.");
                 break;
         }
     }

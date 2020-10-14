@@ -5,7 +5,7 @@ public class Bookkeeper extends Employee{
 
     }
 
-    public void printDailyReport(int dayNum){
+    /*public void printDailyReport(int dayNum){
         System.out.println("---------- DAILY REPORT FOR DAY " + dayNum + " ----------");
 
         System.out.println("Leftover Spring Rolls: " + Store.inventory.get("numSprRolls"));
@@ -43,7 +43,7 @@ public class Bookkeeper extends Employee{
         System.out.println("Inventory Sold Out: " + yn);
 
         System.out.println("\n====================================================================================================\n");
-    }
+    }*/
 
     /*public void printReceipt(){
 

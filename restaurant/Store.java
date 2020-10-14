@@ -21,6 +21,9 @@ public class Store {
         springRoll =  new ToppingDecorator(springRoll);
         System.out.println(springRoll.getDescription() + " $" + springRoll.cost());
 
+        bookkeeper = new Bookkeeper();
+        announcer = new Announcer();
+
         System.out.println("---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------\n\n");
         for(int i=1 ; i<=numDays ; i++)
         {
@@ -53,12 +56,15 @@ public class Store {
             System.out.println("\n====================================================================================================\n");
 
             for(int j=0 ; j<customers.length ; j++){
+                announcer.currentCustomer = customers[j];
                 System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
-                System.out.println(customers[j].getName() + " wants to buy " + customers[j].getRollsWanted() + " roll(s).");
+                //customers[j].arrive();
+                customers[j].purchaseRoll();
                 if(customers[j].checkInventorySoldOut()){
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
+                //customers[j].leave();
                 System.out.println("\n====================================================================================================\n");
             }
 
@@ -72,7 +78,7 @@ public class Store {
             System.out.println("\n====================================================================================================\n");
 
             //print out daily report of sales analysis
-            bookkeeper.printDailyReport(i);
+            //bookkeeper.printDailyReport(i);
         }
 
     }

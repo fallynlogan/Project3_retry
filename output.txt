@@ -1,3 +1,4 @@
+Spring Roll Shredded Carrots $4.0
 ---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
 
 
@@ -10,94 +11,106 @@ Initial Jelly Rolls: 5
 
 ====================================================================================================
 
-Cathy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
+Boone the Casual Customer has arrived at the store!
+Boone wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Boone purchased 1 Pastry Roll.
+Boone purchased 1 Pastry Roll.
 
 ====================================================================================================
 
 Adam the Casual Customer has arrived at the store!
+Adam wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Adam purchased 1 Spring Roll.
+Adam purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Amy the Casual Customer has arrived at the store!
+Amy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Amy purchased 1 Spring Roll.
+
+====================================================================================================
+
+James the Casual Customer has arrived at the store!
+James wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+James purchased 1 Egg Roll.
+
+====================================================================================================
+
+Mia the Casual Customer has arrived at the store!
+Mia wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
+Mia purchased 1 Egg Roll.
+Mia purchased 1 Jelly Roll.
+Mia purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Mason the Casual Customer has arrived at the store!
+Mason wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mason purchased 1 Pastry Roll.
 
 ====================================================================================================
 
 Ellie the Casual Customer has arrived at the store!
+Ellie wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Ellie purchased 1 Jelly Roll.
 
 ====================================================================================================
 
-Oliver the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Boone the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Susan the Catering Customer has arrived at the store!
+Chad the Casual Customer has arrived at the store!
+Chad wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
+Chad purchased 1 Jelly Roll.
+Chad purchased 1 Sausage Roll.
+Chad purchased 1 Spring Roll.
 
 ====================================================================================================
 
 Wendy the Casual Customer has arrived at the store!
+Wendy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Wendy purchased 1 Pastry Roll.
+Wendy purchased 1 Jelly Roll.
+Wendy purchased 1 Spring Roll.
 
 ====================================================================================================
 
-Jane the Casual Customer has arrived at the store!
+Oliver the Casual Customer has arrived at the store!
+Oliver wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Oliver purchased 1 Jelly Roll.
+Oliver purchased 1 Egg Roll.
 
 ====================================================================================================
 
-Mary the Casual Customer has arrived at the store!
+Karen the Business Customer has arrived at the store!
+Karen purchased 1 Spring Roll Peanut Sauce.
+Karen purchased 1 Spring Roll Peanut Sauce.
+Karen purchased 1 Egg Roll Sweet & Sour Sauce.
+Karen purchased 1 Egg Roll Sweet & Sour Sauce.
+Karen purchased 1 Pastry Roll Dark Chocolate Sauce.
+Karen purchased 1 Pastry Roll Dark Chocolate Sauce.
+Karen purchased 1 Sausage Roll Marinara Sauce.
+Karen purchased 1 Sausage Roll Marinara Sauce.
+Karen purchased 1 Jelly Roll Cranberry Sauce.
+Karen purchased 1 Jelly Roll Cranberry Sauce.
 
 ====================================================================================================
 
-Mason the Catering Customer has arrived at the store!
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Brandon purchased 1 Sausage Roll.
 
 ====================================================================================================
 
-
-Inventory at the end of Day 1.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 2.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Mary the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Wendy the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Catering Customer has arrived at the store!
+Martin the Business Customer has arrived at the store!
+Martin purchased 1 Spring Roll Peanut Sauce.
+Martin purchased 1 Spring Roll Peanut Sauce.
+Martin purchased 1 Egg Roll Sweet & Sour Sauce.
+Martin purchased 1 Egg Roll Sweet & Sour Sauce.
+Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
+Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
+Martin purchased 1 Sausage Roll Marinara Sauce.
+Martin purchased 1 Sausage Roll Marinara Sauce.
+Martin purchased 1 Jelly Roll Cranberry Sauce.
+Martin purchased 1 Jelly Roll Cranberry Sauce.
 
 ====================================================================================================
 
@@ -105,380 +118,28 @@ Cathy the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
-
-Inventory at the end of Day 2.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 3.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Wendy the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Amy the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-
-Inventory at the end of Day 3.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 4.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Karen the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Oliver the Business Customer has arrived at the store!
-
-====================================================================================================
-
 Naomi the Casual Customer has arrived at the store!
+Naomi wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Naomi purchased 1 Pastry Roll.
 
 ====================================================================================================
 
 
-Inventory at the end of Day 4.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
+Inventory at the end of Day 1.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
 
 ====================================================================================================
 
-Today is Day 5.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Ellie the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-
-Inventory at the end of Day 5.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 6.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Boone the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-
-Inventory at the end of Day 6.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 7.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Naomi the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-
-Inventory at the end of Day 7.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 8.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Susan the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Brandon the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-
-Inventory at the end of Day 8.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
-
-====================================================================================================
-
-Today is Day 9.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
-
-====================================================================================================
-
-Susan the Business Customer has arrived at the store!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
+Today is Day 2.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
 
 ====================================================================================================
 
@@ -486,124 +147,689 @@ Chad the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
-Adam the Casual Customer has arrived at the store!
+Cathy the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
-Mason the Casual Customer has arrived at the store!
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 1 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Brandon purchased 1 Pastry Roll.
+Brandon purchased 1 Pastry Roll.
+Brandon purchased 1 Spring Roll.
 
 ====================================================================================================
 
-Mary the Casual Customer has arrived at the store!
+Mary the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
-Brandon the Business Customer has arrived at the store!
+Wendy the Business Customer has arrived at the store!
+Sorry Wendy! The order can not be fulfilled!
+
+====================================================================================================
+
+
+Inventory at the end of Day 2.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 3.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Oliver the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Adam the Business Customer has arrived at the store!
+Sorry Adam! The order can not be fulfilled!
+
+====================================================================================================
+
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Brandon purchased 1 Jelly Roll.
+Brandon purchased 1 Egg Roll.
+Brandon purchased 1 Pastry Roll.
+
+====================================================================================================
+
+Mason the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Susan the Business Customer has arrived at the store!
+Sorry Susan! The order can not be fulfilled!
+
+====================================================================================================
+
+
+Inventory at the end of Day 3.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 4.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
 
 ====================================================================================================
 
 Wendy the Casual Customer has arrived at the store!
+Wendy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
+Wendy purchased 1 Jelly Roll.
+Wendy purchased 1 Jelly Roll.
 
 ====================================================================================================
 
-Naomi the Business Customer has arrived at the store!
+Naomi the Casual Customer has arrived at the store!
+Naomi wants to purchase 0 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
+Naomi purchased 1 Sausage Roll.
+Naomi purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Mason the Casual Customer has arrived at the store!
+Mason wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mason purchased 1 Spring Roll.
+Mason purchased 1 Pastry Roll.
+Mason purchased 1 Egg Roll.
+
+====================================================================================================
+
+Chad the Casual Customer has arrived at the store!
+Chad wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Chad purchased 1 Sausage Roll.
+Chad purchased 1 Pastry Roll.
+
+====================================================================================================
+
+James the Casual Customer has arrived at the store!
+James wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+James purchased 1 Jelly Roll.
 
 ====================================================================================================
 
 Oliver the Casual Customer has arrived at the store!
+Oliver wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Oliver purchased 1 Egg Roll.
+Oliver purchased 1 Pastry Roll.
 
 ====================================================================================================
 
-Karen the Casual Customer has arrived at the store!
+Martin the Casual Customer has arrived at the store!
+Martin wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Martin purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Mary the Casual Customer has arrived at the store!
+Mary wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Mary purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Adam the Casual Customer has arrived at the store!
+Adam wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Adam purchased 1 Pastry Roll.
+Adam purchased 1 Jelly Roll.
+Adam purchased 1 Egg Roll.
+
+====================================================================================================
+
+Ellie the Business Customer has arrived at the store!
+Sorry Ellie! The order can not be fulfilled!
+
+====================================================================================================
+
+Karen the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
 Cathy the Casual Customer has arrived at the store!
+Cathy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 1 Jelly Roll(s)
+Cathy purchased 1 Sausage Roll.
+Cathy purchased 1 Jelly Roll.
+Cathy purchased 1 Sausage Roll.
 
 ====================================================================================================
 
-Amy the Casual Customer has arrived at the store!
+
+Inventory at the end of Day 4.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 5.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Chad the Casual Customer has arrived at the store!
+Chad wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Chad purchased 1 Spring Roll.
 
 ====================================================================================================
 
 Ellie the Casual Customer has arrived at the store!
+Ellie wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Ellie purchased 1 Sausage Roll.
+
+====================================================================================================
+
+James the Business Customer has arrived at the store!
+Sorry James! The order can not be fulfilled!
+
+====================================================================================================
+
+Boone the Casual Customer has arrived at the store!
+Boone wants to purchase 2 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Boone purchased 1 Spring Roll.
+Boone purchased 1 Spring Roll.
+
+====================================================================================================
+
+Naomi the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Mason the Casual Customer has arrived at the store!
+Mason wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
+Mason purchased 1 Jelly Roll.
+Mason purchased 1 Egg Roll.
+Mason purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Jane the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Mary the Casual Customer has arrived at the store!
+Mary wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mary purchased 1 Spring Roll.
+
+====================================================================================================
+
+Karen the Casual Customer has arrived at the store!
+Karen wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Karen purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Amy the Casual Customer has arrived at the store!
+Amy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
+Amy purchased 1 Spring Roll.
+Amy purchased 1 Sausage Roll.
+Amy purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Susan the Casual Customer has arrived at the store!
+Susan wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Susan purchased 1 Sausage Roll.
+Susan purchased 1 Egg Roll.
+
+====================================================================================================
+
+
+Inventory at the end of Day 5.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 6.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Cathy the Business Customer has arrived at the store!
+Sorry Cathy! The order can not be fulfilled!
+
+====================================================================================================
+
+Adam the Business Customer has arrived at the store!
+Sorry Adam! The order can not be fulfilled!
+
+====================================================================================================
+
+Martin the Casual Customer has arrived at the store!
+Martin wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Martin purchased 1 Spring Roll.
+
+====================================================================================================
+
+Oliver the Casual Customer has arrived at the store!
+Oliver wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Oliver purchased 1 Pastry Roll.
+Oliver purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Susan the Casual Customer has arrived at the store!
+Susan wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Susan purchased 1 Jelly Roll.
+Susan purchased 1 Pastry Roll.
+
+====================================================================================================
+
+Jane the Casual Customer has arrived at the store!
+Jane wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Jane purchased 1 Pastry Roll.
+Jane purchased 1 Egg Roll.
+Jane purchased 1 Spring Roll.
+
+====================================================================================================
+
+Naomi the Business Customer has arrived at the store!
+Sorry Naomi! The order can not be fulfilled!
+
+====================================================================================================
+
+Mason the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Karen the Casual Customer has arrived at the store!
+Karen wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Karen purchased 1 Egg Roll.
+
+====================================================================================================
+
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
+Brandon purchased 1 Egg Roll.
+Brandon purchased 1 Jelly Roll.
+Brandon purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Wendy the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Ellie the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 6.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 7.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Brandon purchased 1 Spring Roll.
+Brandon purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Oliver the Casual Customer has arrived at the store!
+Oliver wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Oliver purchased 1 Egg Roll.
+
+====================================================================================================
+
+Ellie the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Jane the Business Customer has arrived at the store!
+Sorry Jane! The order can not be fulfilled!
+
+====================================================================================================
+
+Naomi the Business Customer has arrived at the store!
+Sorry Naomi! The order can not be fulfilled!
+
+====================================================================================================
+
+Mary the Casual Customer has arrived at the store!
+Mary wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Mary purchased 1 Egg Roll.
+Mary purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Karen the Casual Customer has arrived at the store!
+Karen wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Karen purchased 1 Egg Roll.
+
+====================================================================================================
+
+Martin the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Mason the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Boone the Casual Customer has arrived at the store!
+Boone wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
+Boone purchased 1 Jelly Roll.
+Boone purchased 1 Spring Roll.
+Boone purchased 1 Jelly Roll.
+
+====================================================================================================
+
+
+Inventory at the end of Day 7.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 8.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Karen the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Mia the Casual Customer has arrived at the store!
+Mia wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mia purchased 1 Pastry Roll.
+Mia purchased 1 Spring Roll.
+
+====================================================================================================
+
+Cathy the Casual Customer has arrived at the store!
+Cathy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Cathy purchased 1 Jelly Roll.
+Cathy purchased 1 Pastry Roll.
+Cathy purchased 1 Spring Roll.
+
+====================================================================================================
+
+Amy the Casual Customer has arrived at the store!
+Amy wants to purchase 0 Spring, 2 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Amy purchased 1 Egg Roll.
+Amy purchased 1 Pastry Roll.
+Amy purchased 1 Egg Roll.
+
+====================================================================================================
+
+Chad the Casual Customer has arrived at the store!
+Chad wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Chad purchased 1 Pastry Roll.
+Chad purchased 1 Pastry Roll.
+Chad purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Boone the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Oliver the Casual Customer has arrived at the store!
+Oliver wants to purchase 2 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Oliver purchased 1 Jelly Roll.
+Oliver purchased 1 Spring Roll.
+Oliver purchased 1 Spring Roll.
+
+====================================================================================================
+
+Ellie the Casual Customer has arrived at the store!
+Ellie wants to purchase 0 Spring, 1 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Ellie purchased 1 Sausage Roll.
+Ellie purchased 1 Egg Roll.
+Ellie purchased 1 Pastry Roll.
+
+====================================================================================================
+
+Adam the Business Customer has arrived at the store!
+Sorry Adam! The order can not be fulfilled!
+
+====================================================================================================
+
+James the Casual Customer has arrived at the store!
+James wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+James purchased 1 Pastry Roll.
+James purchased 1 Egg Roll.
+
+====================================================================================================
+
+Naomi the Casual Customer has arrived at the store!
+Naomi wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Naomi purchased 1 Pastry Roll.
+
+====================================================================================================
+
+
+Inventory at the end of Day 8.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
+
+====================================================================================================
+
+Today is Day 9.
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Susan the Casual Customer has arrived at the store!
+Susan wants to purchase 0 Spring, 0 Egg, 2 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Susan purchased 1 Sausage Roll.
+Susan purchased 1 Pastry Roll.
+Susan purchased 1 Pastry Roll.
+
+====================================================================================================
+
+Karen the Casual Customer has arrived at the store!
+Karen wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Karen purchased 1 Egg Roll.
+Karen purchased 1 Spring Roll.
+
+====================================================================================================
+
+Mary the Business Customer has arrived at the store!
+Sorry Mary! The order can not be fulfilled!
+
+====================================================================================================
+
+Martin the Casual Customer has arrived at the store!
+Martin wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Martin purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Jane the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Oliver the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 0 Spring, 1 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
+Brandon purchased 1 Sausage Roll.
+Brandon purchased 1 Pastry Roll.
+Brandon purchased 1 Egg Roll.
+
+====================================================================================================
+
+Mason the Casual Customer has arrived at the store!
+Mason wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mason purchased 1 Egg Roll.
+Mason purchased 1 Pastry Roll.
+
+====================================================================================================
+
+Boone the Casual Customer has arrived at the store!
+Boone wants to purchase 1 Spring, 2 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Boone purchased 1 Egg Roll.
+Boone purchased 1 Spring Roll.
+Boone purchased 1 Egg Roll.
+
+====================================================================================================
+
+Cathy the Casual Customer has arrived at the store!
+Cathy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Cathy purchased 1 Egg Roll.
+
+====================================================================================================
+
+Ellie the Catering Customer has arrived at the store!
 
 ====================================================================================================
 
 
 Inventory at the end of Day 9.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
 
 ====================================================================================================
 
 Today is Day 10.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 5
-Initial Pastry Rolls: 5
-Initial Sausage Rolls: 5
-Initial Jelly Rolls: 5
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 1
 
 ====================================================================================================
 
-Naomi the Casual Customer has arrived at the store!
+Boone the Business Customer has arrived at the store!
+Sorry Boone! The order can not be fulfilled!
 
 ====================================================================================================
 
 Karen the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Wendy the Business Customer has arrived at the store!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
+Karen wants to purchase 0 Spring, 1 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Karen purchased 1 Pastry Roll.
+Karen purchased 1 Egg Roll.
+Karen purchased 1 Pastry Roll.
 
 ====================================================================================================
 
 James the Casual Customer has arrived at the store!
+James wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 2 Jelly Roll(s)
+James purchased 1 Sausage Roll.
+James purchased 1 Jelly Roll.
+James purchased 1 Jelly Roll.
 
 ====================================================================================================
 
-Cathy the Catering Customer has arrived at the store!
+Adam the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Wendy the Business Customer has arrived at the store!
+Sorry Wendy! The order can not be fulfilled!
+
+====================================================================================================
+
+Mary the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Susan the Casual Customer has arrived at the store!
+Susan wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
+Susan purchased 1 Sausage Roll.
+Susan purchased 1 Egg Roll.
+Susan purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Amy the Catering Customer has arrived at the store!
+
+====================================================================================================
+
+Brandon the Casual Customer has arrived at the store!
+Brandon wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 2 Jelly Roll(s)
+Brandon purchased 1 Jelly Roll.
+Brandon purchased 1 Jelly Roll.
+Brandon purchased 1 Sausage Roll.
+
+====================================================================================================
+
+Naomi the Casual Customer has arrived at the store!
+Naomi wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
+Naomi purchased 1 Jelly Roll.
+
+====================================================================================================
+
+Mason the Casual Customer has arrived at the store!
+Mason wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
+Mason purchased 1 Spring Roll.
 
 ====================================================================================================
 
 
 Inventory at the end of Day 10.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 5
-Leftover Pastry Rolls: 5
-Leftover Sausage Rolls: 5
-Leftover Jelly Rolls: 5
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 1
 
 ====================================================================================================
 

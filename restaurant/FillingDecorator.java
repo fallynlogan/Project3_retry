@@ -1,39 +1,36 @@
 package restaurant;
 
 public class FillingDecorator extends ExtraDecorator{
-    FoodItem foodItem;
-    String newDescription = "";
+    private FoodItem foodItem;
+    private String newDescription = "";
 
     public FillingDecorator(FoodItem foodItem)
     {
         this.foodItem = foodItem;
     }
 
+    @Override
     public String getDescription()
     {
         if (foodItem.getDescription() == "Egg Roll")
         {
-            newDescription =  (foodItem.getDescription() + ", Shredded Beef");
+            newDescription = (" Shredded Beef");
         }
-
-        if (foodItem.getDescription() == "Jelly Roll")
-        {
-            newDescription = (foodItem.getDescription() + ", Apricot Jelly");
-        }
-
-        if (foodItem.getDescription() == "Pastry Roll")
-        {
-            newDescription = (foodItem.getDescription() +  ", Cream Cheese");
-        }
-
         if (foodItem.getDescription() == "Spring Roll")
         {
-            newDescription = (foodItem.getDescription() + ", Ground Pork");
+            newDescription = (" Ground Pork");
         }
-
+        if (foodItem.getDescription() == "Pastry Roll")
+        {
+            newDescription = (" Cream Cheese");
+        }
         if (foodItem.getDescription() == "Sausage Roll")
         {
-            newDescription = (foodItem.getDescription() + ", Italian Sausage");
+            newDescription = (" Italian Sausage");
+        }
+        if (foodItem.getDescription() == "Jelly Roll")
+        {
+            newDescription = (" Apricot Jelly");
         }
 
         return (foodItem.getDescription() + newDescription);

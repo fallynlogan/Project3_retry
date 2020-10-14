@@ -9,31 +9,28 @@ public class SauceDecorator extends ExtraDecorator {
         this.foodItem = foodItem;
     }
 
+
+    @Override
     public String getDescription()
     {
-        if (foodItem.getDescription() == "Egg Roll")
-        {
-            newDescription =  (foodItem.getDescription() + ", Sweet & Sour sauce");
+        if (foodItem.getDescription() == "Spring Roll") {
+            newDescription = (" Peanut Sauce");
         }
 
-        if (foodItem.getDescription() == "Jelly Roll")
-        {
-            newDescription = (foodItem.getDescription() + ", Cranberry sauce");
+        if (foodItem.getDescription() == "Egg Roll") {
+            newDescription = (" Sweet & Sour Sauce");
         }
 
-        if (foodItem.getDescription() == "Pastry Roll")
-        {
-            newDescription = (foodItem.getDescription() +  ", Dark Chocolate sauce");
+        if (foodItem.getDescription() == "Pastry Roll") {
+            newDescription = (" Dark Chocolate Sauce");
         }
 
-        if (foodItem.getDescription() == "Spring Roll")
-        {
-            newDescription = (foodItem.getDescription() + ", Peanut sauce");
+        if (foodItem.getDescription() == "Sausage Roll") {
+            newDescription = (" Marinara Sauce");
         }
 
-        if (foodItem.getDescription() == "Sausage Roll")
-        {
-            newDescription = (foodItem.getDescription() + ", Marinara sauce");
+        if (foodItem.getDescription() == "Jelly Roll") {
+            newDescription = (" Cranberry Sauce");
         }
 
         return (foodItem.getDescription() + newDescription);

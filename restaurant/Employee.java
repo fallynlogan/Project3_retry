@@ -13,7 +13,7 @@ public abstract class Employee {
     protected double allSpringSales, allEggSales, allPastrySales, allSausageSales, allJellySales;
     protected double lifetimeTotalSales;
 
-    public static Customer currentCustomer;
+    public Customer currentCustomer;
 
     Employee(){
         dailySpringSales = 0; dailyEggSales = 0; dailyPastrySales = 0; dailySausageSales = 0; dailyJellySales = 0;

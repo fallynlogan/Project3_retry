@@ -10,31 +10,32 @@ public class ToppingDecorator extends ExtraDecorator {
         this.foodItem = foodItem;
     }
 
+    @Override
     public String getDescription()
     {
         if (foodItem.getDescription() == "Egg Roll")
         {
-            newDescription =  (foodItem.getDescription() + ", Shredded Cabbage");
-        }
-
-        if (foodItem.getDescription() == "Jelly Roll")
-        {
-            newDescription = (foodItem.getDescription() + ", Powdered Sugar");
-        }
-
-        if (foodItem.getDescription() == "Pastry Roll")
-        {
-            newDescription = (foodItem.getDescription() +  ", Fruit Preserves");
+            newDescription =  (" Shredded Cabbage");
         }
 
         if (foodItem.getDescription() == "Spring Roll")
         {
-            newDescription = (foodItem.getDescription() + "Shredded Carrots");
+            newDescription = (" Shredded Carrots");
+        }
+
+        if (foodItem.getDescription() == "Pastry Roll")
+        {
+            newDescription = (" Fruit Preserves");
         }
 
         if (foodItem.getDescription() == "Sausage Roll")
         {
-            newDescription = (foodItem.getDescription() + "Mozzarella Cheese");
+            newDescription = (" Mozzarella Cheese");
+        }
+
+        if (foodItem.getDescription() == "Jelly Roll")
+        {
+            newDescription = (" Powdered Sugar");
         }
 
         return (foodItem.getDescription() + newDescription);
