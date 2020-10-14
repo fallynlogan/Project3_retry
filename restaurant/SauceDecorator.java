@@ -1,11 +1,10 @@
 package restaurant;
 
-public abstract class ToppingDecorator extends ExtraDecorator {
-
+public abstract class SauceDecorator extends ExtraDecorator {
     FoodItem foodItem;
     String newDescription = "";
 
-    public ToppingDecorator(FoodItem foodItem)
+    public FillingDecorator(FoodItem foodItem)
     {
         this.foodItem = foodItem;
     }
@@ -14,27 +13,27 @@ public abstract class ToppingDecorator extends ExtraDecorator {
     {
         if (foodItem.getDescription() == "Egg Roll")
         {
-            newDescription =  (foodItem.getDescription() + ", Shredded Cabbage");
+            newDescription =  (foodItem.getDescription() + ", Sweet & Sour sauce");
         }
 
         if (foodItem.getDescription() == "Jelly Roll")
         {
-            newDescription = (foodItem.getDescription() + ", Powdered Sugar");
+            newDescription = (foodItem.getDescription() + ", Cranberry sauce");
         }
 
         if (foodItem.getDescription() == "Pastry Roll")
         {
-            newDescription = (foodItem.getDescription() +  ", Fruit Preserves");
+            newDescription = (foodItem.getDescription() +  ", Dark Chocolate sauce");
         }
 
         if (foodItem.getDescription() == "Spring Roll")
         {
-            newDescription = (foodItem.getDescription() + "Shredded Carrots");
+            newDescription = (foodItem.getDescription() + ", Peanut sauce");
         }
 
         if (foodItem.getDescription() == "Sausage Roll")
         {
-            newDescription = (foodItem.getDescription() + "Mozzarella Cheese");
+            newDescription = (foodItem.getDescription() + ", Marinara sauce");
         }
 
         return (foodItem.getDescription() + newDescription);
@@ -43,7 +42,7 @@ public abstract class ToppingDecorator extends ExtraDecorator {
 
     public double cost()
     {
-       return (foodItem.cost() + 0.50);
+       return (foodItem.cost() + 1.00);
     }
-
+    
 }
