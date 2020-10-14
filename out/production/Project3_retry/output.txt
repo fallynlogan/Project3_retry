@@ -1,0 +1,681 @@
+---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
+
+
+Today is Day 1.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Brandon the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Amy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Jane the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Naomi the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 1.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 2.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Wendy the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 2.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 3.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Jane the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Naomi the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 3.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 4.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Adam the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Ellie the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 4.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 5.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Oliver the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Amy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 5.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 6.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Naomi the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Amy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Jane the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Oliver the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 6.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 7.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Oliver the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Naomi the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 7.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 8.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Amy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Naomi the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 8.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 9.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Karen the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Naomi the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 9.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+
+Today is Day 10.
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 5
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 5
+
+====================================================================================================
+
+Jane the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Adam the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+James the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Amy the BusinessCustomer has arrived at the store!
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Brandon the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Martin the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+Wendy the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Mia the CasualCustomer has arrived at the store!
+
+====================================================================================================
+
+Cathy the CateringCustomer has arrived at the store!
+
+====================================================================================================
+
+
+Inventory at the end of Day 10.
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 5
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 5
+
+====================================================================================================
+

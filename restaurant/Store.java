@@ -3,7 +3,8 @@ import java.util.*;
 
 public class Store {
     public static HashMap<String, Integer> inventory;
-    private Integer rollStartCount = 2;
+    private Integer rollStartCount = 5;
+    public Customer[] customers;
 
     public Store(int numDays) {
         Random rand = new Random();
@@ -34,7 +35,8 @@ public class Store {
         System.out.println("---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------\n\n");
         for(int i=1 ; i<=numDays ; i++)
         {
-            //print out each day number 
+            customers = CustomerFactory.createDailyCustomers();
+            //print out each day number
             System.out.println("Today is Day " + i + ".");
             //at the start of each day if the roll is out of stock reset count to 30 (make more)
             if(inventory.get("numSprRolls")==0){
@@ -54,20 +56,25 @@ public class Store {
             }
 
             //print out the inventory at the start of each day
-            System.out.println("Spring Roll Stock: " + inventory.get("numSprRolls"));
-            System.out.println("Egg Roll Stock: " + inventory.get("numEggRolls"));
-            System.out.println("Pastry Roll Stock: " + inventory.get("numPastryRolls"));
-            System.out.println("Sausage Roll Stock: " + inventory.get("numSausageRolls"));
-            System.out.println("Jelly Roll Stock: " + inventory.get("numJellyRolls"));
+            System.out.println("Initial Spring Rolls: " + inventory.get("numSprRolls"));
+            System.out.println("Initial Egg Rolls: " + inventory.get("numEggRolls"));
+            System.out.println("Initial Pastry Rolls: " + inventory.get("numPastryRolls"));
+            System.out.println("Initial Sausage Rolls: " + inventory.get("numSausageRolls"));
+            System.out.println("Initial Jelly Rolls: " + inventory.get("numJellyRolls"));
             System.out.println("\n====================================================================================================\n");
+
+            for(int j=0 ; j<customers.length ; j++){
+                System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " Customer has arrived at the store!");
+                System.out.println("\n====================================================================================================\n");
+            }
 
             //print out the inventory at the end of each day
             System.out.println("\nInventory at the end of Day " + i + ".");
-            System.out.println("Spring Roll Stock: " + inventory.get("numSprRolls"));
-            System.out.println("Egg Roll Stock: " + inventory.get("numEggRolls"));
-            System.out.println("Pastry Roll Stock: " + inventory.get("numPastryRolls"));
-            System.out.println("Sausage Roll Stock: " + inventory.get("numSausageRolls"));
-            System.out.println("Jelly Roll Stock: " + inventory.get("numJellyRolls"));
+            System.out.println("Leftover Spring Rolls: " + inventory.get("numSprRolls"));
+            System.out.println("Leftover Egg Rolls: " + inventory.get("numEggRolls"));
+            System.out.println("Leftover Pastry Rolls: " + inventory.get("numPastryRolls"));
+            System.out.println("Leftover Sausage Rolls: " + inventory.get("numSausageRolls"));
+            System.out.println("Leftover Jelly Rolls: " + inventory.get("numJellyRolls"));
             System.out.println("\n====================================================================================================\n");
         }
 
