@@ -53,21 +53,21 @@ public class CustomerFactory {
 
         for(int i=0 ; i<numCasual ; i++)
         {
-            dailyCustomers[currentIndex] = new CasualCustomer(shuffledNames[nameIndex]);
+            dailyCustomers[currentIndex] = new Casual(shuffledNames[nameIndex]);
             nameIndex = nameIndex + 1;
             currentIndex++;
         }
 
         for(int i=0 ; i<numBusiness ; i++)
         {
-            dailyCustomers[currentIndex] = new BusinessCustomer(shuffledNames[nameIndex]);
+            dailyCustomers[currentIndex] = new Business(shuffledNames[nameIndex]);
             nameIndex++;
             currentIndex++;
         }
 
         for(int i=0 ; i<numCatering ; i++)
         {
-            dailyCustomers[currentIndex] = new CateringCustomer(shuffledNames[nameIndex]);
+            dailyCustomers[currentIndex] = new Catering(shuffledNames[nameIndex]);
             nameIndex++;
             currentIndex++;
         }
