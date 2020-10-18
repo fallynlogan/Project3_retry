@@ -1,77 +1,45 @@
 package restaurant;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Random;
 
+//OO Factory Pattern applied
 public class CustomerFactory {
-    public CustomerFactory(){
 
-    }
+    public static HashMap<String, ArrayList<Customer>> getCustomers()
+    {   ArrayList<Customer> casualCustomer = new ArrayList<Customer>();
+        ArrayList<Customer> businessCustomer = new ArrayList<Customer>();
+        ArrayList<Customer> cateringCustomer = new ArrayList<Customer>();
 
-    public static String[] shuffleNames(String[] names)
-    {
-        Random rand = new Random();
-
-        for(int i=0 ; i<names.length ; i++){
-            int randomIndexToSwap = rand.nextInt(names.length);
-            String temp = names[randomIndexToSwap];
-            names[randomIndexToSwap] = names[i];
-            names[i] = temp;
-        }
-        return names;
-    }
-
-    public static Customer[] shuffleCustomers(Customer[] customers)
-    {
-        Random rand = new Random();
-
-        for(int i=0 ; i<customers.length ; i++)
+        HashMap<String, ArrayList<Customer>> totalCustomers = new HashMap<String, ArrayList<Customer>>();
+        //1-12 casual customers
+        int rndCasual = new Random().nextInt(12) + 1;
+        //1-3 business customers 
+        int rndBusiness = new Random().nextInt(3) + 1;
+        //1-3 catering customers 
+        int rndCatering = new Random().nextInt(3) + 1;
+        
+        //map of how many of each type of customer
+        for(int i =0; i < rndCasual; i++)
         {
-            int randomIndexToSwap = rand.nextInt(customers.length);
-            Customer temp = customers[randomIndexToSwap];
-            customers[randomIndexToSwap] = customers[i];
-            customers[i] = temp;
+            casualCustomer.add(new CasualCustomer());
         }
-        return customers;
-    }
 
-    public static Customer[] createDailyCustomers()
-    {
-        Random rand = new Random();
-
-        String[] possibleNames = {"Chad","Cathy","Karen","Susan","Mary","Wendy","Adam","Naomi","Boone","Jane","Ellie","Brandon","Amy","Oliver","Mason","Mia","James","Martin"};
-        int nameIndex = 0;
-        String[] shuffledNames = shuffleNames(possibleNames);
-
-
-        int numCasual = rand.nextInt(12) + 1;
-        int numBusiness = rand.nextInt(3) + 1;
-        int numCatering = rand.nextInt(3) + 1;
-        int totalCustomers = numBusiness + numCasual + numCatering;
-
-        Customer[] dailyCustomers = new Customer[totalCustomers];
-        int currentIndex = 0;
-
-        for(int i=0 ; i<numCasual ; i++)
+        for(int i =0; i < rndBusiness; i++)
         {
-            dailyCustomers[currentIndex] = new Casual(shuffledNames[nameIndex]);
-            nameIndex = nameIndex + 1;
-            currentIndex++;
+            businessCustomer.add(new BusinessCustomer());
         }
 
-        for(int i=0 ; i<numBusiness ; i++)
+        for(int i =0; i < rndCatering; i++)
         {
-            dailyCustomers[currentIndex] = new Business(shuffledNames[nameIndex]);
-            nameIndex++;
-            currentIndex++;
+            cateringCustomer.add(new CateringCustomer());
         }
 
-        for(int i=0 ; i<numCatering ; i++)
-        {
-            dailyCustomers[currentIndex] = new Catering(shuffledNames[nameIndex]);
-            nameIndex++;
-            currentIndex++;
-        }
-
-        return shuffleCustomers(dailyCustomers);
+        totalCustomers.put("Casual Customers", casualCustomer);
+        totalCustomers.put("Business Customers", businessCustomer);
+        totalCustomers.put("Catering Customers", cateringCustomer);
+        
+        return totalCustomers;   
     }
 }

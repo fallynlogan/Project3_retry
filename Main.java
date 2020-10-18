@@ -1,16 +1,19 @@
-import restaurant.*;
+import restaurant.Restaurant;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
     private static int numDays = 0;
+    private static int numRolls = 0;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number of days for the restaurant to operate: ");
         numDays = sc.nextInt();
+        System.out.println("Enter a number of Rolls for the restaurant to start their inventory with: ");
+        numRolls = sc.nextInt();
         sc.close();
 
         PrintStream fileName;
@@ -20,6 +23,6 @@ public class Main {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        Store ourStore = new Store(numDays);
+        Restaurant ourRestaurant = new Restaurant(numDays, numRolls);
     }
 }

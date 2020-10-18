@@ -1,22 +1,17 @@
 package restaurant;
 
-import java.util.Random;
+public class PastryRoll implements FoodItem {
 
-public class PastryRoll extends FoodItem {
-
-    public PastryRoll()
+    @Override
+    public String getDescription()
     {
-        Random rand = new Random();
-        description = "Pastry Roll";
-        extraSauce = rand.nextInt(4);
-        extraFill  = rand.nextInt(2);
-        extraTop  = rand.nextInt(3);
+        return "Pastry Roll";
     }
 
+    @Override
     public double cost()
-        {
-            return 3.00;
-        }
-    
+    {
+        return 2.75;
+    }
     
 }

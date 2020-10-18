@@ -1,45 +1,23 @@
 package restaurant;
 
-public class SauceDecorator extends ExtraDecorator {
-    FoodItem foodItem;
-    String newDescription = "";
+public class SauceDecorator extends FoodItemDecorator {
+    private String sauceName;
 
-    public SauceDecorator(FoodItem foodItem)
+    public SauceDecorator(FoodItem decoratedFoodItem, String sauceName)
     {
-        this.foodItem = foodItem;
+        super(decoratedFoodItem);
+        this.sauceName = sauceName;
     }
-
 
     @Override
     public String getDescription()
     {
-        if (foodItem.getDescription() == "Spring Roll") {
-            newDescription = (" Peanut Sauce");
-        }
-
-        if (foodItem.getDescription() == "Egg Roll") {
-            newDescription = (" Sweet & Sour Sauce");
-        }
-
-        if (foodItem.getDescription() == "Pastry Roll") {
-            newDescription = (" Dark Chocolate Sauce");
-        }
-
-        if (foodItem.getDescription() == "Sausage Roll") {
-            newDescription = (" Marinara Sauce");
-        }
-
-        if (foodItem.getDescription() == "Jelly Roll") {
-            newDescription = (" Cranberry Sauce");
-        }
-
-        return (foodItem.getDescription() + newDescription);
-
+        return (decoratedFoodItem.getDescription() + " " + this.sauceName);
     }
 
     public double cost()
     {
-       return (foodItem.cost() + 1.00);
+       return (decoratedFoodItem.cost() + 1.00);
     }
     
 }
