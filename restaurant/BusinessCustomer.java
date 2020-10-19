@@ -22,6 +22,7 @@ public class BusinessCustomer implements Customer {
         } catch(OrderNotFilledException ex)
         {
             System.out.println("NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER");
+            System.out.println("====================================================================================================");
             restaurant.cashier.businessRollOutages++;
         }
 

@@ -65,10 +65,8 @@ public class Restaurant {
 
                 if(checkInventorySoldOut())
                 {
-                    cashier.earlyClosure = true;
-                    notifyAllObservers();
-                    cashier.printDailyReport(i);
                     System.out.println("\n================================Store Closing All Sold Out!====================================\n");
+                    cashier.earlyClosure = true;
                     break;
                 }
             }

@@ -6,21 +6,21 @@ public class CasualCustomer implements Customer {
 
     @Override
     public void purchase(Restaurant restaurant) {
+        String[] rolls = {"Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll"};
+        int rnd = new Random().nextInt(rolls.length);
+        int numRolls = new Random().nextInt(3) + 1;
+        String rollType = rolls[rnd];
+        HashMap<String, Integer> purchase = new HashMap<String, Integer>();
+        purchase.put(rollType, numRolls);
+        System.out.println("Casual Customer: ");
+        System.out.println("Original Purchase: " + purchase);
         while(true)
         {
             if(restaurant.checkInventorySoldOut()){
                 break;
             }
-            HashMap<String, Integer> purchase = new HashMap<String, Integer>();
             try
             {
-                String[] rolls = {"Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll"};
-                int rnd = new Random().nextInt(rolls.length);
-                int numRolls = new Random().nextInt(3) + 1;
-                String rollType = rolls[rnd];
-                purchase.put(rollType, numRolls);
-                System.out.println("Casual Customer: ");
-                System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
@@ -39,6 +39,7 @@ public class CasualCustomer implements Customer {
                     purchase = newOrder;
                     break;
                 }
+
                 // case: our requested roll has 0 stock in the inventory
                 Iterator<Map.Entry<String, Integer>> it2 = remainingInventoryItems.entrySet().iterator();
 

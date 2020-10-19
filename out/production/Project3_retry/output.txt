@@ -5,152 +5,110 @@ Today is Day 1.
 
 ====================================================================================================
 
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll  Peanut Sauce @ $4.50
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Egg Roll=5, Pastry Roll=5}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
 Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
 Pastry Roll @ $2.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
 Pastry Roll  Fruit Preserves Topping @ $3.25
-Egg Roll @ $3.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Spring Roll=5}
-Spring Roll @ $3.50
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll @ $3.50
-Spring Roll @ $3.50
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Sausage Roll @ $4.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
 Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll @ $2.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll @ $3.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Sausage Roll=2}
 Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Order complete!
-====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Original Purchase: {Pastry Roll=3}
 Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll @ $2.75
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll  Marinara Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping @ $4.25
-Order complete!
-====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Marinara Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Order complete!
-====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
 Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Sausage Roll @ $4.00
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
 Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 ====================================================================================================
 
 Inventory at the end of Day 1.
-Leftover Spring Rolls: 11
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 19
-Leftover Sausage Rolls: 14
-Leftover Jelly Rolls: 23
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
 
 ____________________ DAILY REPORT FOR DAY 1 ____________________
-Total Revenue for Spring Rolls: 86.00
-Total Spring Roll Orders: 19
-Total Revenue for Egg Rolls: 83.00
-Total Egg Roll Orders: 16
-Total Revenue for Pastry Rolls: 45.25
-Total Pastry Roll Orders: 11
-Total Revenue for Sausage Rolls: 84.00
-Total Sausage Roll Orders: 16
-Total Revenue for Jelly Rolls: 29.00
-Total Jelly Roll Orders: 7
-Total Revenue for Casual Customers: 43.00
-Total Revenue for Business Customers: 137.50
-Total Revenue for Catering Customers: 146.75
-Total Revenue for the Day: 327.25
+Total Revenue for Spring Rolls: $21.00
+Total Spring Roll Orders: 4
+Total Revenue for Egg Rolls: $8.50
+Total Egg Roll Orders: 2
+Total Revenue for Pastry Rolls: $38.25
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: $35.00
+Total Sausage Roll Orders: 7
+Total Revenue for Jelly Rolls: $18.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $58.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $63.25
+Total Revenue for the Day: $121.25
 Total Casual Orders Affected by Roll Outages: 0
-Total Business Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 3
 Total Catering Orders Affected by Roll Outages: 0
 Inventory Sold Out: No
 
@@ -160,60 +118,143 @@ Today is Day 2.
 
 ====================================================================================================
 
-Initial Spring Rolls: 11
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 19
-Initial Sausage Rolls: 14
-Initial Jelly Rolls: 23
+Initial Spring Rolls: 10
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Egg Roll=5, Sausage Roll=5}
-Jelly Roll  Cranberry Sauce @ $3.50
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Pastry Roll @ $2.75
 Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll @ $2.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll @ $3.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll @ $2.75
+Pastry Roll  Dark Chocolate Sauce @ $3.75
 Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
 Sausage Roll  Marinara Sauce @ $5.00
 Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping @ $4.25
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 2.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 2 ____________________
+Total Revenue for Spring Rolls: $22.50
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $37.00
+Total Pastry Roll Orders: 10
+Total Revenue for Sausage Rolls: $26.00
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $17.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $103.00
+Total Revenue for the Day: $103.00
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 3.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Pastry Roll=2}
 Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll @ $2.75
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Egg Roll=2}
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Egg Roll @ $3.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll @ $3.50
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-Jelly Roll @ $2.50
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
@@ -222,151 +263,73 @@ Egg Roll  Sweet & Sour Sauce @ $4.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
 Order complete!
 ====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Powdered Sugar Topping @ $3.00
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
 Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Spring Roll @ $3.50
-Spring Roll  Peanut Sauce @ $4.50
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Order complete!
-====================================================================================================
-
-Inventory at the end of Day 2.
-Leftover Spring Rolls: 6
-Leftover Egg Rolls: 4
-Leftover Pastry Rolls: 12
-Leftover Sausage Rolls: 7
-Leftover Jelly Rolls: 15
-
-____________________ DAILY REPORT FOR DAY 2 ____________________
-Total Revenue for Spring Rolls: 20.50
-Total Spring Roll Orders: 5
-Total Revenue for Egg Rolls: 49.00
-Total Egg Roll Orders: 10
-Total Revenue for Pastry Rolls: 28.25
-Total Pastry Roll Orders: 7
-Total Revenue for Sausage Rolls: 37.00
-Total Sausage Roll Orders: 7
-Total Revenue for Jelly Rolls: 30.50
-Total Jelly Roll Orders: 8
-Total Revenue for Casual Customers: 48.50
-Total Revenue for Business Customers: 45.50
-Total Revenue for Catering Customers: 71.25
-Total Revenue for the Day: 165.25
-Total Casual Orders Affected by Roll Outages: 0
-Total Business Orders Affected by Roll Outages: 0
-Total Catering Orders Affected by Roll Outages: 0
-Inventory Sold Out: No
-
-====================================================================================================
-
-Today is Day 3.
-
-====================================================================================================
-
-Initial Spring Rolls: 6
-Initial Egg Rolls: 4
-Initial Pastry Rolls: 12
-Initial Sausage Rolls: 7
-Initial Jelly Rolls: 15
-
-====================================================================================================
-
-Catering Customer: 
-Original Purchase: {Pastry Roll=5, Sausage Roll=5}
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Sausage Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Catering Customer: 
-Original Purchase: {Egg Roll=5, Sausage Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Cranberry Sauce @ $3.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-Pastry Roll @ $2.75
-Pastry Roll @ $2.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Sausage Roll=3}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=2}
+Original Purchase: {Sausage Roll=3}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-CASUAL ORDER NOT FULFILLED
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Egg Roll=2}
-CASUAL ORDER NOT FULFILLED
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-CASUAL ORDER NOT FULFILLED
-Casual Customer: 
-Original Purchase: {Pastry Roll=3}
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
 Pastry Roll @ $2.75
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 
 Inventory at the end of Day 3.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 0
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 3
 Leftover Pastry Rolls: 0
 Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 10
+Leftover Jelly Rolls: 6
 
 ____________________ DAILY REPORT FOR DAY 3 ____________________
-Total Revenue for Spring Rolls: .00
-Total Spring Roll Orders: 0
-Total Revenue for Egg Rolls: .00
-Total Egg Roll Orders: 0
-Total Revenue for Pastry Rolls: 38.50
-Total Pastry Roll Orders: 10
-Total Revenue for Sausage Rolls: 28.00
-Total Sausage Roll Orders: 5
-Total Revenue for Jelly Rolls: 13.50
-Total Jelly Roll Orders: 3
-Total Revenue for Casual Customers: 30.75
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 49.25
-Total Revenue for the Day: 80.00
-Total Casual Orders Affected by Roll Outages: 5
-Total Business Orders Affected by Roll Outages: 1
-Total Catering Orders Affected by Roll Outages: 2
+Total Revenue for Spring Rolls: $25.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $14.25
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: $23.00
+Total Pastry Roll Orders: 6
+Total Revenue for Sausage Rolls: $51.00
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $62.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $50.50
+Total Revenue for the Day: $113.25
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 2
+Total Catering Orders Affected by Roll Outages: 0
 Inventory Sold Out: No
 
 ====================================================================================================
@@ -375,157 +338,107 @@ Today is Day 4.
 
 ====================================================================================================
 
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 10
+Initial Spring Rolls: 1
+Initial Egg Rolls: 3
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 6
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5}
-Spring Roll  Peanut Sauce @ $4.50
-Spring Roll  Peanut Sauce @ $4.50
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll @ $3.50
-Spring Roll @ $3.50
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll @ $3.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll  Shredded Carrots Topping @ $4.25
-Order complete!
-====================================================================================================
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Spring Roll=5, Egg Roll=5}
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll @ $2.50
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll @ $3.50
-Spring Roll  Peanut Sauce @ $4.50
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Peanut Sauce @ $4.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Peanut Sauce @ $4.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Jelly Roll @ $2.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll @ $2.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-CASUAL ORDER NOT FULFILLED
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Spring Roll @ $3.50
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-CASUAL ORDER NOT FULFILLED
+Original Purchase: {Jelly Roll=5, Spring Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
 Original Purchase: {Pastry Roll=3}
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll @ $2.75
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Original Purchase: {Pastry Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Marinara Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
 
 Inventory at the end of Day 4.
-Leftover Spring Rolls: 3
-Leftover Egg Rolls: 16
-Leftover Pastry Rolls: 20
-Leftover Sausage Rolls: 23
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 0
 
 ____________________ DAILY REPORT FOR DAY 4 ____________________
-Total Revenue for Spring Rolls: 104.00
-Total Spring Roll Orders: 23
-Total Revenue for Egg Rolls: 48.00
-Total Egg Roll Orders: 10
-Total Revenue for Pastry Rolls: 24.50
-Total Pastry Roll Orders: 6
-Total Revenue for Sausage Rolls: 17.50
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $16.00
 Total Sausage Roll Orders: 3
-Total Revenue for Jelly Rolls: 35.00
-Total Jelly Roll Orders: 10
-Total Revenue for Casual Customers: 118.00
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 111.00
-Total Revenue for the Day: 229.00
-Total Casual Orders Affected by Roll Outages: 2
-Total Business Orders Affected by Roll Outages: 2
-Total Catering Orders Affected by Roll Outages: 0
-Inventory Sold Out: No
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $16.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $16.00
+Total Casual Orders Affected by Roll Outages: 7
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 3
+Inventory Sold Out: Yes
 
 ====================================================================================================
 
@@ -533,67 +446,112 @@ Today is Day 5.
 
 ====================================================================================================
 
-Initial Spring Rolls: 3
-Initial Egg Rolls: 16
-Initial Pastry Rolls: 20
-Initial Sausage Rolls: 23
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Sausage Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Original Purchase: {Spring Roll=5, Pastry Roll=5, Sausage Roll=5}
+Pastry Roll @ $2.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
 Casual Customer: 
 Original Purchase: {Pastry Roll=1}
-Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll @ $2.75
-Pastry Roll @ $2.75
+Original Purchase: {Egg Roll=3}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Cranberry Sauce @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll @ $2.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
 Casual Customer: 
 Original Purchase: {Jelly Roll=2}
 Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 
 Inventory at the end of Day 5.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 16
-Leftover Jelly Rolls: 26
+Leftover Spring Rolls: 3
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 2
 
 ____________________ DAILY REPORT FOR DAY 5 ____________________
-Total Revenue for Spring Rolls: .00
-Total Spring Roll Orders: 0
-Total Revenue for Egg Rolls: .00
-Total Egg Roll Orders: 0
-Total Revenue for Pastry Rolls: 12.50
-Total Pastry Roll Orders: 4
-Total Revenue for Sausage Rolls: .00
-Total Sausage Roll Orders: 0
-Total Revenue for Jelly Rolls: 8.00
-Total Jelly Roll Orders: 2
-Total Revenue for Casual Customers: 20.50
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: .00
-Total Revenue for the Day: 20.50
+Total Revenue for Spring Rolls: $24.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $44.00
+Total Egg Roll Orders: 8
+Total Revenue for Pastry Rolls: $24.50
+Total Pastry Roll Orders: 6
+Total Revenue for Sausage Rolls: $54.00
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: $22.00
+Total Jelly Roll Orders: 6
+Total Revenue for Casual Customers: $45.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $123.50
+Total Revenue for the Day: $168.50
 Total Casual Orders Affected by Roll Outages: 1
 Total Business Orders Affected by Roll Outages: 1
-Total Catering Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
 Inventory Sold Out: No
 
 ====================================================================================================
@@ -602,93 +560,165 @@ Today is Day 6.
 
 ====================================================================================================
 
-Initial Spring Rolls: 30
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 16
-Initial Jelly Rolls: 26
+Initial Spring Rolls: 3
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 2
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Pastry Roll=5}
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll  Peanut Sauce @ $4.50
-Spring Roll @ $3.50
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Order complete!
-====================================================================================================
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Catering Customer: 
-Original Purchase: {Egg Roll=5, Pastry Roll=5}
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll @ $2.75
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Egg Roll  Shredded Carrots Topping @ $4.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Jelly Roll=5}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Order complete!
-====================================================================================================
+Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Egg Roll @ $3.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Original Purchase: {Jelly Roll=3}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Spring Roll=1}
-Spring Roll @ $3.50
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Jelly Roll=3}
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll @ $2.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Jelly Roll=2}
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Cranberry Sauce @ $3.50
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Original Purchase: {Egg Roll=1}
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping @ $3.25
+Original Purchase: {Spring Roll=1}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Egg Roll=2}
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 6.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 6 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $16.25
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: $2.75
+Total Pastry Roll Orders: 1
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $19.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $19.00
+Total Casual Orders Affected by Roll Outages: 8
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 7.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll @ $3.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
 Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
 Order complete!
 ====================================================================================================
 Casual Customer: 
@@ -697,146 +727,46 @@ Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll @ $4.00
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-CASUAL ORDER NOT FULFILLED
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Jelly Roll @ $2.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Cranberry Sauce @ $3.50
+Original Purchase: {Egg Roll=3}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-
-Inventory at the end of Day 6.
-Leftover Spring Rolls: 21
-Leftover Egg Rolls: 2
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 9
-Leftover Jelly Rolls: 9
-
-____________________ DAILY REPORT FOR DAY 6 ____________________
-Total Revenue for Spring Rolls: 32.00
-Total Spring Roll Orders: 7
-Total Revenue for Egg Rolls: 50.50
-Total Egg Roll Orders: 10
-Total Revenue for Pastry Rolls: 50.75
-Total Pastry Roll Orders: 13
-Total Revenue for Sausage Rolls: 26.00
-Total Sausage Roll Orders: 5
-Total Revenue for Jelly Rolls: 58.00
-Total Jelly Roll Orders: 15
-Total Revenue for Casual Customers: 107.50
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 109.75
-Total Revenue for the Day: 217.25
-Total Casual Orders Affected by Roll Outages: 1
-Total Business Orders Affected by Roll Outages: 1
-Total Catering Orders Affected by Roll Outages: 0
-Inventory Sold Out: No
-
-====================================================================================================
-
-Today is Day 7.
-
-====================================================================================================
-
-Initial Spring Rolls: 21
-Initial Egg Rolls: 2
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 9
-Initial Jelly Rolls: 9
-
-====================================================================================================
-
-Catering Customer: 
-Original Purchase: {Jelly Roll=5}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Pastry Roll=5}
-Pastry Roll @ $2.75
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Order complete!
-====================================================================================================
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll @ $2.50
-Jelly Roll  Cranberry Sauce @ $3.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 
 Inventory at the end of Day 7.
-Leftover Spring Rolls: 9
+Leftover Spring Rolls: 0
 Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 22
+Leftover Pastry Rolls: 6
 Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 0
+Leftover Jelly Rolls: 6
 
 ____________________ DAILY REPORT FOR DAY 7 ____________________
-Total Revenue for Spring Rolls: 23.50
-Total Spring Roll Orders: 5
-Total Revenue for Egg Rolls: .00
-Total Egg Roll Orders: 0
-Total Revenue for Pastry Rolls: 24.50
-Total Pastry Roll Orders: 6
-Total Revenue for Sausage Rolls: 10.50
-Total Sausage Roll Orders: 2
-Total Revenue for Jelly Rolls: 29.50
-Total Jelly Roll Orders: 8
-Total Revenue for Casual Customers: 24.75
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 63.25
-Total Revenue for the Day: 88.00
+Total Revenue for Spring Rolls: $45.50
+Total Spring Roll Orders: 9
+Total Revenue for Egg Rolls: $32.50
+Total Egg Roll Orders: 6
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $38.50
+Total Sausage Roll Orders: 7
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $66.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $50.50
+Total Revenue for the Day: $116.50
 Total Casual Orders Affected by Roll Outages: 0
-Total Business Orders Affected by Roll Outages: 1
-Total Catering Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 2
+Total Catering Orders Affected by Roll Outages: 0
 Inventory Sold Out: No
 
 ====================================================================================================
@@ -845,99 +775,103 @@ Today is Day 8.
 
 ====================================================================================================
 
-Initial Spring Rolls: 9
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 22
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 6
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 6
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Spring Roll=5}
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Original Purchase: {Jelly Roll=5, Pastry Roll=5}
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll @ $2.75
 Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
 Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping @ $4.00
-Spring Roll @ $3.50
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce @ $3.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Sausage Roll @ $4.00
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
 Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll @ $4.00
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Egg Roll=3}
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
 Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll @ $3.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
-Jelly Roll  Cranberry Sauce @ $3.50
+Original Purchase: {Sausage Roll=1}
+Sausage Roll @ $4.00
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Original Purchase: {Pastry Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Spring Roll=3}
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
-Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Order complete!
-====================================================================================================
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
+Spring Roll  Peanut Sauce @ $4.50
 Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Peanut Sauce @ $4.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll @ $2.50
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 
 Inventory at the end of Day 8.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 25
-Leftover Pastry Rolls: 20
-Leftover Sausage Rolls: 26
-Leftover Jelly Rolls: 16
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 5
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 0
 
 ____________________ DAILY REPORT FOR DAY 8 ____________________
-Total Revenue for Spring Rolls: 46.00
-Total Spring Roll Orders: 9
-Total Revenue for Egg Rolls: 16.25
+Total Revenue for Spring Rolls: $13.00
+Total Spring Roll Orders: 3
+Total Revenue for Egg Rolls: $15.75
 Total Egg Roll Orders: 3
-Total Revenue for Pastry Rolls: .00
-Total Pastry Roll Orders: 0
-Total Revenue for Sausage Rolls: 10.50
-Total Sausage Roll Orders: 2
-Total Revenue for Jelly Rolls: 48.00
-Total Jelly Roll Orders: 12
-Total Revenue for Casual Customers: 73.75
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 47.00
-Total Revenue for the Day: 120.75
-Total Casual Orders Affected by Roll Outages: 0
+Total Revenue for Pastry Rolls: $18.75
+Total Pastry Roll Orders: 5
+Total Revenue for Sausage Rolls: $33.00
+Total Sausage Roll Orders: 6
+Total Revenue for Jelly Rolls: $18.00
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $61.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $36.75
+Total Revenue for the Day: $98.50
+Total Casual Orders Affected by Roll Outages: 3
 Total Business Orders Affected by Roll Outages: 1
 Total Catering Orders Affected by Roll Outages: 0
 Inventory Sold Out: No
@@ -948,113 +882,88 @@ Today is Day 9.
 
 ====================================================================================================
 
-Initial Spring Rolls: 30
-Initial Egg Rolls: 25
-Initial Pastry Rolls: 20
-Initial Sausage Rolls: 26
-Initial Jelly Rolls: 16
+Initial Spring Rolls: 5
+Initial Egg Rolls: 5
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 10
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Pastry Roll=5}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll @ $2.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll @ $2.50
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Order complete!
-====================================================================================================
+Original Purchase: {Spring Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll  Dark Chocolate Sauce @ $3.75
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Jelly Roll  Powdered Sugar Topping @ $3.00
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll  Cranberry Sauce @ $3.50
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
-Jelly Roll @ $2.50
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
-Egg Roll @ $3.75
-Order complete!
-====================================================================================================
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
 Original Purchase: {Egg Roll=3}
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Egg Roll  Sweet & Sour Sauce @ $4.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Shredded Carrots Topping @ $4.25
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Egg Roll  Sweet & Sour Sauce @ $4.75
-Order complete!
-====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
-Jelly Roll @ $2.50
-Sausage Roll  Marinara Sauce @ $5.00
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
-Spring Roll @ $3.50
-Spring Roll @ $3.50
-Egg Roll @ $3.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Order complete!
-====================================================================================================
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
-Pastry Roll  Fruit Preserves Topping @ $3.25
-Jelly Roll  Cranberry Sauce @ $3.50
+Original Purchase: {Jelly Roll=1}
 Jelly Roll  Powdered Sugar Topping @ $3.00
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
-Sausage Roll @ $4.00
-Spring Roll @ $3.50
-Spring Roll  Peanut Sauce @ $4.50
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
-Egg Roll @ $3.75
 Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 ====================================================================================================
 
 Inventory at the end of Day 9.
-Leftover Spring Rolls: 26
-Leftover Egg Rolls: 12
-Leftover Pastry Rolls: 6
-Leftover Sausage Rolls: 22
-Leftover Jelly Rolls: 2
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 3
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
 
 ____________________ DAILY REPORT FOR DAY 9 ____________________
-Total Revenue for Spring Rolls: 15.00
-Total Spring Roll Orders: 4
-Total Revenue for Egg Rolls: 64.75
-Total Egg Roll Orders: 13
-Total Revenue for Pastry Rolls: 59.50
-Total Pastry Roll Orders: 14
-Total Revenue for Sausage Rolls: 21.00
-Total Sausage Roll Orders: 4
-Total Revenue for Jelly Rolls: 49.50
-Total Jelly Roll Orders: 14
-Total Revenue for Casual Customers: 21.00
-Total Revenue for Business Customers: 85.50
-Total Revenue for Catering Customers: 103.25
-Total Revenue for the Day: 209.75
-Total Casual Orders Affected by Roll Outages: 0
-Total Business Orders Affected by Roll Outages: 0
-Total Catering Orders Affected by Roll Outages: 0
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $14.75
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $15.50
+Total Jelly Roll Orders: 4
+Total Revenue for Casual Customers: $30.25
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $30.25
+Total Casual Orders Affected by Roll Outages: 3
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 2
 Inventory Sold Out: No
 
 ====================================================================================================
@@ -1063,41 +972,129 @@ Today is Day 10.
 
 ====================================================================================================
 
-Initial Spring Rolls: 26
-Initial Egg Rolls: 12
-Initial Pastry Rolls: 6
-Initial Sausage Rolls: 22
-Initial Jelly Rolls: 2
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 3
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Pastry Roll=5, Sausage Roll=5}
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
-Pastry Roll @ $2.75
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
-Pastry Roll @ $2.75
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Sausage Roll=5}
 Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
-Sausage Roll  Mozzarella Cheese Topping @ $4.50
-Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
 Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
 Order complete!
 ====================================================================================================
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Catering Customer: 
-Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
 NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
-Original Purchase: {Pastry Roll=3}
+Original Purchase: {Jelly Roll=2}
+Jelly Roll @ $2.50
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Original Purchase: {Spring Roll=1}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 10.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 10 ____________________
+Total Revenue for Spring Rolls: $10.50
+Total Spring Roll Orders: 2
+Total Revenue for Egg Rolls: $24.75
+Total Egg Roll Orders: 5
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $22.50
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $10.00
+Total Jelly Roll Orders: 4
+Total Revenue for Casual Customers: $20.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $47.25
+Total Revenue for the Day: $67.75
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 11.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5}
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll @ $3.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
 Order complete!
 ====================================================================================================
 Casual Customer: 
@@ -1107,78 +1104,2045 @@ Spring Roll @ $3.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Pastry Roll @ $2.75
+Pastry Roll @ $2.75
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping @ $4.25
+Order complete!
+====================================================================================================
+
+Inventory at the end of Day 11.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 8
+Leftover Pastry Rolls: 8
+Leftover Sausage Rolls: 8
+Leftover Jelly Rolls: 7
+
+____________________ DAILY REPORT FOR DAY 11 ____________________
+Total Revenue for Spring Rolls: $43.00
+Total Spring Roll Orders: 9
+Total Revenue for Egg Rolls: $9.00
+Total Egg Roll Orders: 2
+Total Revenue for Pastry Rolls: $5.50
+Total Pastry Roll Orders: 2
+Total Revenue for Sausage Rolls: $8.50
+Total Sausage Roll Orders: 2
+Total Revenue for Jelly Rolls: $13.50
+Total Jelly Roll Orders: 3
+Total Revenue for Casual Customers: $14.00
+Total Revenue for Business Customers: $41.00
+Total Revenue for Catering Customers: $24.50
+Total Revenue for the Day: $79.50
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 12.
+
+====================================================================================================
+
+Initial Spring Rolls: 1
+Initial Egg Rolls: 8
+Initial Pastry Rolls: 8
+Initial Sausage Rolls: 8
+Initial Jelly Rolls: 7
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll @ $2.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll @ $3.75
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll @ $2.75
+Pastry Roll @ $2.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 12.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 12 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $22.25
+Total Egg Roll Orders: 5
+Total Revenue for Pastry Rolls: $22.25
+Total Pastry Roll Orders: 7
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $17.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $5.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $56.50
+Total Revenue for the Day: $62.00
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 13.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5, Sausage Roll=5}
+Pastry Roll @ $2.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll @ $3.75
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll @ $2.50
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll @ $4.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Peanut Sauce @ $4.50
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Egg Roll=5}
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
 Spring Roll @ $3.50
 Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Peanut Sauce @ $4.50
 Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 13.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 13 ____________________
+Total Revenue for Spring Rolls: $45.50
+Total Spring Roll Orders: 10
+Total Revenue for Egg Rolls: $51.00
+Total Egg Roll Orders: 10
+Total Revenue for Pastry Rolls: $17.75
+Total Pastry Roll Orders: 5
+Total Revenue for Sausage Rolls: $53.50
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: $37.00
+Total Jelly Roll Orders: 10
+Total Revenue for Casual Customers: $.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $204.75
+Total Revenue for the Day: $204.75
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 14.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll @ $3.50
+Spring Roll @ $3.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll @ $3.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Spring Roll=3}
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 14.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 4
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 14 ____________________
+Total Revenue for Spring Rolls: $35.50
+Total Spring Roll Orders: 8
+Total Revenue for Egg Rolls: $33.25
+Total Egg Roll Orders: 7
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $27.50
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $19.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $70.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $45.25
+Total Revenue for the Day: $115.75
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 15.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 4
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
 Spring Roll  Shredded Cabbage Topping @ $4.00
 Spring Roll @ $3.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll @ $3.50
+Spring Roll  Peanut Sauce @ $4.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Egg Roll @ $3.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 15.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 3
+
+____________________ DAILY REPORT FOR DAY 15 ____________________
+Total Revenue for Spring Rolls: $20.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $14.25
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $49.00
+Total Sausage Roll Orders: 9
+Total Revenue for Jelly Rolls: $2.50
+Total Jelly Roll Orders: 1
+Total Revenue for Casual Customers: $38.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $47.00
+Total Revenue for the Day: $85.75
+Total Casual Orders Affected by Roll Outages: 3
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 16.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 3
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5}
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll @ $3.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 16.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 16 ____________________
+Total Revenue for Spring Rolls: $24.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $3.75
+Total Pastry Roll Orders: 1
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $3.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $24.00
+Total Revenue for the Day: $27.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 17.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Pastry Roll=5}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Spring Roll=2}
 Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 17.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 4
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 17 ____________________
+Total Revenue for Spring Rolls: $41.50
+Total Spring Roll Orders: 8
+Total Revenue for Egg Rolls: $10.00
+Total Egg Roll Orders: 2
+Total Revenue for Pastry Rolls: $39.75
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $22.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $67.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $46.75
+Total Revenue for the Day: $113.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 18.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 4
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll @ $2.50
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 18.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 18 ____________________
+Total Revenue for Spring Rolls: $25.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $19.75
+Total Pastry Roll Orders: 5
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $36.00
+Total Jelly Roll Orders: 10
+Total Revenue for Casual Customers: $.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $80.75
+Total Revenue for the Day: $80.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 19.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Pastry Roll=5}
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll @ $2.75
+Spring Roll @ $3.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
 Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll @ $3.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Shredded Carrots Topping @ $4.25
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 19.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 19 ____________________
+Total Revenue for Spring Rolls: $45.50
+Total Spring Roll Orders: 10
+Total Revenue for Egg Rolls: $21.50
+Total Egg Roll Orders: 4
+Total Revenue for Pastry Rolls: $41.50
+Total Pastry Roll Orders: 10
+Total Revenue for Sausage Rolls: $58.00
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: $29.50
+Total Jelly Roll Orders: 8
+Total Revenue for Casual Customers: $31.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $165.00
+Total Revenue for the Day: $196.00
+Total Casual Orders Affected by Roll Outages: 7
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 20.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll @ $2.75
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll @ $2.75
+Pastry Roll @ $2.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 20.
+Leftover Spring Rolls: 4
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 20 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $26.25
+Total Egg Roll Orders: 5
+Total Revenue for Pastry Rolls: $33.25
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: $27.50
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $38.50
+Total Jelly Roll Orders: 9
+Total Revenue for Casual Customers: $82.25
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $43.25
+Total Revenue for the Day: $125.50
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 21.
+
+====================================================================================================
+
+Initial Spring Rolls: 4
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll @ $3.75
+Egg Roll @ $3.75
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll @ $2.75
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 21.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 4
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 21 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $50.00
+Total Egg Roll Orders: 10
+Total Revenue for Pastry Rolls: $6.50
+Total Pastry Roll Orders: 2
+Total Revenue for Sausage Rolls: $26.00
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $34.00
+Total Jelly Roll Orders: 9
+Total Revenue for Casual Customers: $74.25
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $42.25
+Total Revenue for the Day: $116.50
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 2
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 22.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 4
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce @ $5.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 22.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 22 ____________________
+Total Revenue for Spring Rolls: $22.50
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $17.75
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $26.00
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $11.50
+Total Jelly Roll Orders: 3
+Total Revenue for Casual Customers: $29.25
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $48.50
+Total Revenue for the Day: $77.75
+Total Casual Orders Affected by Roll Outages: 9
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 23.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 23.
+Leftover Spring Rolls: 3
+Leftover Egg Rolls: 6
+Leftover Pastry Rolls: 8
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 3
+
+____________________ DAILY REPORT FOR DAY 23 ____________________
+Total Revenue for Spring Rolls: $24.50
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $12.00
+Total Egg Roll Orders: 2
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $43.50
+Total Sausage Roll Orders: 8
+Total Revenue for Jelly Rolls: $16.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $27.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $69.00
+Total Revenue for the Day: $96.50
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 24.
+
+====================================================================================================
+
+Initial Spring Rolls: 3
+Initial Egg Rolls: 6
+Initial Pastry Rolls: 8
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 3
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce @ $4.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 24.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 24 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $12.75
+Total Pastry Roll Orders: 3
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $12.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $12.75
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 3
+Inventory Sold Out: Yes
+
+====================================================================================================
+
+Today is Day 25.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Sausage Roll=5}
+Sausage Roll @ $4.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll @ $4.00
+Sausage Roll  Marinara Sauce @ $5.00
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll @ $4.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll @ $3.50
+Spring Roll @ $3.50
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Egg Roll  Shredded Carrots Topping @ $4.25
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Shredded Carrots Topping @ $4.25
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 25.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 25 ____________________
+Total Revenue for Spring Rolls: $22.00
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $31.25
+Total Egg Roll Orders: 7
+Total Revenue for Pastry Rolls: $8.00
+Total Pastry Roll Orders: 2
+Total Revenue for Sausage Rolls: $51.00
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: $19.50
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: $36.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $95.25
+Total Revenue for the Day: $131.75
+Total Casual Orders Affected by Roll Outages: 3
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 26.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+Spring Roll @ $3.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll  Peanut Sauce @ $4.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Spring Roll  Peanut Sauce @ $4.50
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll @ $3.75
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+CASUAL ORDER NOT FULFILLED
 Order complete!
 ====================================================================================================
 Casual Customer: 
 Original Purchase: {Pastry Roll=3}
 CASUAL ORDER NOT FULFILLED
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-Spring Roll  Peanut Sauce @ $4.50
 Order complete!
 ====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=3}
+Original Purchase: {Egg Roll=1}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Jelly Roll=3}
+Original Purchase: {Pastry Roll=1}
 CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
 Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
-Spring Roll  Shredded Cabbage Topping @ $4.00
+Original Purchase: {Egg Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
 Order complete!
 ====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
 
-Inventory at the end of Day 10.
-Leftover Spring Rolls: 4
-Leftover Egg Rolls: 1
+Inventory at the end of Day 26.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 0
 Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 8
+Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 0
 
-____________________ DAILY REPORT FOR DAY 10 ____________________
-Total Revenue for Spring Rolls: 60.00
-Total Spring Roll Orders: 13
-Total Revenue for Egg Rolls: 11.00
-Total Egg Roll Orders: 2
-Total Revenue for Pastry Rolls: 18.75
-Total Pastry Roll Orders: 5
-Total Revenue for Sausage Rolls: 24.50
-Total Sausage Roll Orders: 5
-Total Revenue for Jelly Rolls: .00
+____________________ DAILY REPORT FOR DAY 26 ____________________
+Total Revenue for Spring Rolls: $23.50
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: $23.75
+Total Egg Roll Orders: 5
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $18.50
+Total Sausage Roll Orders: 3
+Total Revenue for Jelly Rolls: $.00
 Total Jelly Roll Orders: 0
-Total Revenue for Casual Customers: 71.00
-Total Revenue for Business Customers: .00
-Total Revenue for Catering Customers: 43.25
-Total Revenue for the Day: 114.25
-Total Casual Orders Affected by Roll Outages: 4
+Total Revenue for Casual Customers: $18.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $47.25
+Total Revenue for the Day: $65.75
+Total Casual Orders Affected by Roll Outages: 8
 Total Business Orders Affected by Roll Outages: 2
 Total Catering Orders Affected by Roll Outages: 2
 Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 27.
+
+====================================================================================================
+
+Initial Spring Rolls: 1
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce @ $4.75
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 27.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 8
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 5
+Leftover Jelly Rolls: 8
+
+____________________ DAILY REPORT FOR DAY 27 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $9.50
+Total Pastry Roll Orders: 2
+Total Revenue for Sausage Rolls: $16.00
+Total Sausage Roll Orders: 3
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $25.50
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $25.50
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 28.
+
+====================================================================================================
+
+Initial Spring Rolls: 10
+Initial Egg Rolls: 8
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 5
+Initial Jelly Rolls: 8
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll  Marinara Sauce @ $5.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce @ $5.50
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Jelly Roll @ $2.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Order complete!
+====================================================================================================
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll @ $2.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Sweet & Sour Sauce @ $4.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+CASUAL ORDER NOT FULFILLED
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+====================================================================================================
+
+Inventory at the end of Day 28.
+Leftover Spring Rolls: 8
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 28 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $4.75
+Total Egg Roll Orders: 1
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $26.00
+Total Sausage Roll Orders: 5
+Total Revenue for Jelly Rolls: $26.50
+Total Jelly Roll Orders: 7
+Total Revenue for Casual Customers: $11.75
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $45.50
+Total Revenue for the Day: $57.25
+Total Casual Orders Affected by Roll Outages: 3
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 29.
+
+====================================================================================================
+
+Initial Spring Rolls: 8
+Initial Egg Rolls: 10
+Initial Pastry Rolls: 10
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 10
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Egg Roll=5}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce @ $4.00
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Cranberry Sauce  Cranberry Sauce @ $4.50
+Jelly Roll  Cranberry Sauce @ $3.50
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce @ $6.00
+Spring Roll @ $3.50
+Spring Roll @ $3.50
+Spring Roll @ $3.50
+Spring Roll  Shredded Cabbage Topping @ $4.00
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll @ $3.75
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce @ $5.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping @ $3.00
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce @ $6.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce @ $5.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Sausage Roll @ $4.00
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce @ $6.50
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Fruit Preserves Topping @ $3.25
+Order complete!
+====================================================================================================
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce @ $5.00
+Order complete!
+====================================================================================================
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Pastry Roll  Dark Chocolate Sauce @ $3.75
+Jelly Roll @ $2.50
+Jelly Roll @ $2.50
+Sausage Roll  Marinara Sauce  Marinara Sauce @ $6.00
+Sausage Roll  Mozzarella Cheese Topping @ $4.50
+Spring Roll  Peanut Sauce  Peanut Sauce @ $5.50
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce @ $5.00
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce @ $5.25
+Egg Roll @ $3.75
+Order complete!
+====================================================================================================
+
+Inventory at the end of Day 29.
+Leftover Spring Rolls: 1
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 1
+Leftover Sausage Rolls: 4
+Leftover Jelly Rolls: 1
+
+____________________ DAILY REPORT FOR DAY 29 ____________________
+Total Revenue for Spring Rolls: $31.00
+Total Spring Roll Orders: 7
+Total Revenue for Egg Rolls: $48.75
+Total Egg Roll Orders: 9
+Total Revenue for Pastry Rolls: $33.75
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: $32.00
+Total Sausage Roll Orders: 6
+Total Revenue for Jelly Rolls: $33.50
+Total Jelly Roll Orders: 9
+Total Revenue for Casual Customers: $68.25
+Total Revenue for Business Customers: $42.50
+Total Revenue for Catering Customers: $68.25
+Total Revenue for the Day: $179.00
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
+
+====================================================================================================
+
+Today is Day 30.
+
+====================================================================================================
+
+Initial Spring Rolls: 1
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 1
+Initial Sausage Rolls: 4
+Initial Jelly Rolls: 1
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+
+================================Store Closing All Sold Out!====================================
+
+
+Inventory at the end of Day 30.
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
+
+____________________ DAILY REPORT FOR DAY 30 ____________________
+Total Revenue for Spring Rolls: $.00
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: $.00
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: $.00
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: $.00
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: $.00
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: $.00
+Total Revenue for Business Customers: $.00
+Total Revenue for Catering Customers: $.00
+Total Revenue for the Day: $.00
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 3
+Inventory Sold Out: Yes
 
 ====================================================================================================
 
@@ -1190,11 +3154,11 @@ Inventory Sold Out: No
 
 
 _________________________ LIFETIME REPORT _________________________
-Total Spring Roll Orders: 85
-Total Egg Roll Orders: 64
-Total Pastry Roll Orders: 76
-Total Sausage Roll Orders: 49
-Total Jelly Roll Orders: 79
-Total Roll Outages: 28
+Total Spring Roll Orders: 120
+Total Egg Roll Orders: 108
+Total Pastry Roll Orders: 103
+Total Sausage Roll Orders: 139
+Total Jelly Roll Orders: 123
+Total Roll Outages: 156
 
-Total Revenue: 1572.0
+Total Revenue: 2708.25
