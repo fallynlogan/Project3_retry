@@ -1,4 +1,3 @@
-Spring Roll Shredded Carrots $4.0
 ---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
 
 
@@ -11,2875 +10,969 @@ Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-Ellie the Catering Customer has arrived at the store!
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 0 Spring, 0 Egg, 2 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Business Customer has arrived at the store!
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Cranberry Sauce 3.75
+Pastry Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 5.25
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Sausage Roll  Peanut Sauce 5.0
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce 5.5
+Sausage Roll  Peanut Sauce 5.0
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Egg Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
+Egg Roll  Fruit Preserves Topping 4.25
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+Egg Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Cranberry Sauce 3.75
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 5.25
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
+Jelly Roll  Sweet & Sour Sauce 3.5
+Jelly Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll 2.75
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.25
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Fruit Preserves Topping 4.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll 4.0
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Mozzarella Cheese Topping 4.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Marinara Sauce 4.5
+Spring Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 6.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll 4.0
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Powdered Sugar Topping 4.0
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Shredded Cabbage Topping 4.5
+Sausage Roll  Shredded Cabbage Topping 4.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Pastry Roll  Dark Chocolate Sauce 3.75
+Pastry Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Powdered Sugar Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce 5.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll 3.5
+Spring Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.0
+Egg Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.25
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Pastry Roll  Powdered Sugar Topping 3.25
+Pastry Roll  Shredded Carrots Topping  Cranberry Sauce 4.25
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.5
+Spring Roll  Marinara Sauce 4.5
+Spring Roll  Fruit Preserves Topping  Marinara Sauce 5.0
+Egg Roll  Cranberry Sauce  Cranberry Sauce 5.75
+Egg Roll  Powdered Sugar Topping 4.25
 
 Inventory at the end of Day 1.
-Leftover Spring Rolls: 26
-Leftover Egg Rolls: 26
-Leftover Pastry Rolls: 26
-Leftover Sausage Rolls: 26
-Leftover Jelly Rolls: 26
+Leftover Spring Rolls: 22
+Leftover Egg Rolls: 20
+Leftover Pastry Rolls: 13
+Leftover Sausage Rolls: 12
+Leftover Jelly Rolls: 21
+____________________ DAILY REPORT FOR DAY 1 ____________________
+Total Revenue for Spring Rolls: 28.0
+Total Spring Roll Orders: 8
+Total Revenue for Egg Rolls: 37.5
+Total Egg Roll Orders: 10
+Total Revenue for Pastry Rolls: 46.75
+Total Pastry Roll Orders: 17
+Total Revenue for Sausage Rolls: 72.0
+Total Sausage Roll Orders: 18
+Total Revenue for Jelly Rolls: 22.5
+Total Jelly Roll Orders: 9
+Total Revenue for Casual Customers: 62.0
+Total Revenue for Business Customers: 66.0
+Total Revenue for Catering Customers: 78.75
+Total Revenue for the Day: 206.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 0
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 2.
-Initial Spring Rolls: 26
-Initial Egg Rolls: 26
-Initial Pastry Rolls: 26
-Initial Sausage Rolls: 26
-Initial Jelly Rolls: 26
+Initial Spring Rolls: 22
+Initial Egg Rolls: 20
+Initial Pastry Rolls: 13
+Initial Sausage Rolls: 12
+Initial Jelly Rolls: 21
 
 ====================================================================================================
 
-Boone the Business Customer has arrived at the store!
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Business Customer has arrived at the store!
-Karen purchased 1 Spring Roll Peanut Sauce.
-Karen purchased 1 Spring Roll Peanut Sauce.
-Karen purchased 1 Egg Roll Sweet & Sour Sauce.
-Karen purchased 1 Egg Roll Sweet & Sour Sauce.
-Karen purchased 1 Pastry Roll Dark Chocolate Sauce.
-Karen purchased 1 Pastry Roll Dark Chocolate Sauce.
-Karen purchased 1 Sausage Roll Marinara Sauce.
-Karen purchased 1 Sausage Roll Marinara Sauce.
-Karen purchased 1 Jelly Roll Cranberry Sauce.
-Karen purchased 1 Jelly Roll Cranberry Sauce.
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 1 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Jelly Roll  Shredded Cabbage Topping 3.0
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll  Cranberry Sauce 3.5
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll 2.5
+Spring Roll  Shredded Cabbage Topping 4.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll 3.5
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.0
+Egg Roll  Cranberry Sauce 4.75
+Egg Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Shredded Cabbage Topping 4.25
+Pastry Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.25
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Fruit Preserves Topping  Peanut Sauce 4.25
+Spring Roll  Shredded Carrots Topping 4.0
+Spring Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.0
+Spring Roll  Dark Chocolate Sauce 4.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll 3.5
+Egg Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.25
+Egg Roll  Shredded Cabbage Topping 4.25
+Egg Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 6.25
+Spring Roll  Peanut Sauce 4.5
+Spring Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.0
+Spring Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.0
+Spring Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.0
+Spring Roll 3.5
+Egg Roll  Shredded Cabbage Topping 4.25
+Egg Roll 3.75
+Egg Roll  Mozzarella Cheese Topping  Peanut Sauce 5.25
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Dark Chocolate Sauce 4.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 4.0
+Jelly Roll 2.5
+Jelly Roll  Fruit Preserves Topping 3.0
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.0
+Spring Roll  Powdered Sugar Topping 4.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Shredded Cabbage Topping 4.5
+Sausage Roll  Shredded Cabbage Topping 4.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll  Peanut Sauce 3.75
+Pastry Roll  Sweet & Sour Sauce 3.75
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Cranberry Sauce 3.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Sausage Roll  Powdered Sugar Topping  Cranberry Sauce 5.5
+Sausage Roll 4.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll  Shredded Cabbage Topping 4.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Shredded Cabbage Topping  Marinara Sauce 5.5
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll 4.0
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 2.
-Leftover Spring Rolls: 20
-Leftover Egg Rolls: 20
-Leftover Pastry Rolls: 20
-Leftover Sausage Rolls: 20
-Leftover Jelly Rolls: 20
+Leftover Spring Rolls: 3
+Leftover Egg Rolls: 2
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 9
+____________________ DAILY REPORT FOR DAY 2 ____________________
+Total Revenue for Spring Rolls: 59.5
+Total Spring Roll Orders: 17
+Total Revenue for Egg Rolls: 60.0
+Total Egg Roll Orders: 16
+Total Revenue for Pastry Rolls: 30.25
+Total Pastry Roll Orders: 11
+Total Revenue for Sausage Rolls: 48.0
+Total Sausage Roll Orders: 12
+Total Revenue for Jelly Rolls: 25.0
+Total Jelly Roll Orders: 10
+Total Revenue for Casual Customers: 87.75
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 135.0
+Total Revenue for the Day: 222.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 3.
-Initial Spring Rolls: 20
-Initial Egg Rolls: 20
-Initial Pastry Rolls: 20
-Initial Sausage Rolls: 20
-Initial Jelly Rolls: 20
+Initial Spring Rolls: 3
+Initial Egg Rolls: 2
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 9
 
 ====================================================================================================
 
-Wendy the Catering Customer has arrived at the store!
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Business Customer has arrived at the store!
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Pastry Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 5.25
+Pastry Roll  Mozzarella Cheese Topping 3.25
+Pastry Roll  Marinara Sauce 3.75
+Pastry Roll  Cranberry Sauce 3.75
+Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce 4.25
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Jelly Roll 2.5
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Sausage Roll  Fruit Preserves Topping 4.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 5.5
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Shredded Cabbage Topping 3.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Shredded Carrots Topping 4.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll 2.5
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll  Mozzarella Cheese Topping  Peanut Sauce 5.5
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll 4.0
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 3.
-Leftover Spring Rolls: 18
-Leftover Egg Rolls: 18
-Leftover Pastry Rolls: 18
-Leftover Sausage Rolls: 18
-Leftover Jelly Rolls: 18
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 16
+Leftover Sausage Rolls: 9
+Leftover Jelly Rolls: 0
+____________________ DAILY REPORT FOR DAY 3 ____________________
+Total Revenue for Spring Rolls: 0.0
+Total Spring Roll Orders: 0
+Total Revenue for Egg Rolls: 0.0
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: 19.25
+Total Pastry Roll Orders: 7
+Total Revenue for Sausage Rolls: 56.0
+Total Sausage Roll Orders: 14
+Total Revenue for Jelly Rolls: 20.0
+Total Jelly Roll Orders: 8
+Total Revenue for Casual Customers: 49.0
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 46.25
+Total Revenue for the Day: 95.25
+Total Casual Orders Affected by Roll Outages: 9
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 2
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 4.
-Initial Spring Rolls: 18
-Initial Egg Rolls: 18
-Initial Pastry Rolls: 18
-Initial Sausage Rolls: 18
-Initial Jelly Rolls: 18
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 16
+Initial Sausage Rolls: 9
+Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Catering Customer has arrived at the store!
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Business Customer has arrived at the store!
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 2 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 2 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Business Customer has arrived at the store!
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Pastry Roll 2.75
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.25
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Pastry Roll  Marinara Sauce 3.75
+Pastry Roll  Shredded Carrots Topping 3.25
+Spring Roll  Shredded Cabbage Topping 4.0
+Spring Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.0
+Spring Roll 3.5
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Egg Roll  Fruit Preserves Topping  Peanut Sauce 5.25
+Egg Roll 3.75
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Peanut Sauce 4.75
+Egg Roll 3.75
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce 4.0
+Jelly Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce 4.0
+Sausage Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.5
+Sausage Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 5.5
+Egg Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.25
+Egg Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.25
+Egg Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll  Shredded Cabbage Topping 4.25
+Egg Roll  Shredded Cabbage Topping  Cranberry Sauce 5.25
+Pastry Roll 2.75
+Pastry Roll 2.75
+Pastry Roll  Marinara Sauce 3.75
+Pastry Roll 2.75
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Spring Roll  Mozzarella Cheese Topping  Marinara Sauce 5.0
+Spring Roll  Fruit Preserves Topping  Cranberry Sauce 5.0
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Spring Roll  Fruit Preserves Topping  Marinara Sauce 5.0
+Spring Roll  Shredded Carrots Topping 4.0
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Spring Roll 3.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.0
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll 4.0
+Sausage Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.5
+Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Peanut Sauce 4.75
+Egg Roll 3.75
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Spring Roll  Shredded Carrots Topping  Marinara Sauce 5.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll 2.75
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 4.
-Leftover Spring Rolls: 14
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 14
-Leftover Jelly Rolls: 14
+Leftover Spring Rolls: 12
+Leftover Egg Rolls: 16
+Leftover Pastry Rolls: 2
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 23
+____________________ DAILY REPORT FOR DAY 4 ____________________
+Total Revenue for Spring Rolls: 56.0
+Total Spring Roll Orders: 16
+Total Revenue for Egg Rolls: 45.0
+Total Egg Roll Orders: 12
+Total Revenue for Pastry Rolls: 33.0
+Total Pastry Roll Orders: 12
+Total Revenue for Sausage Rolls: 36.0
+Total Sausage Roll Orders: 9
+Total Revenue for Jelly Rolls: 12.5
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: 50.0
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 132.5
+Total Revenue for the Day: 182.5
+Total Casual Orders Affected by Roll Outages: 1
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 5.
-Initial Spring Rolls: 14
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 14
-Initial Jelly Rolls: 14
+Initial Spring Rolls: 12
+Initial Egg Rolls: 16
+Initial Pastry Rolls: 2
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 23
 
 ====================================================================================================
 
-Naomi the Catering Customer has arrived at the store!
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 2 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Business Customer has arrived at the store!
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 1 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Business Customer has arrived at the store!
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Jelly Roll  Marinara Sauce 3.5
+Jelly Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.25
+Egg Roll 3.75
+Egg Roll  Dark Chocolate Sauce 4.75
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 5.25
+Jelly Roll  Shredded Carrots Topping 3.0
+Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
+Jelly Roll  Shredded Carrots Topping  Peanut Sauce 4.0
+Jelly Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 4.0
+Jelly Roll 2.5
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 5.25
+Egg Roll 3.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll 4.0
+Sausage Roll  Shredded Carrots Topping  Peanut Sauce 5.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 5.25
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 5.
-Leftover Spring Rolls: 10
-Leftover Egg Rolls: 10
-Leftover Pastry Rolls: 10
-Leftover Sausage Rolls: 10
-Leftover Jelly Rolls: 10
+Leftover Spring Rolls: 7
+Leftover Egg Rolls: 4
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 25
+Leftover Jelly Rolls: 11
+____________________ DAILY REPORT FOR DAY 5 ____________________
+Total Revenue for Spring Rolls: 10.5
+Total Spring Roll Orders: 3
+Total Revenue for Egg Rolls: 37.5
+Total Egg Roll Orders: 10
+Total Revenue for Pastry Rolls: 2.75
+Total Pastry Roll Orders: 1
+Total Revenue for Sausage Rolls: 12.0
+Total Sausage Roll Orders: 3
+Total Revenue for Jelly Rolls: 25.0
+Total Jelly Roll Orders: 10
+Total Revenue for Casual Customers: 25.25
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 62.5
+Total Revenue for the Day: 87.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 6.
-Initial Spring Rolls: 10
-Initial Egg Rolls: 10
-Initial Pastry Rolls: 10
-Initial Sausage Rolls: 10
-Initial Jelly Rolls: 10
+Initial Spring Rolls: 7
+Initial Egg Rolls: 4
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 25
+Initial Jelly Rolls: 11
 
 ====================================================================================================
 
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Catering Customer has arrived at the store!
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Catering Customer has arrived at the store!
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Sausage Roll 4.0
+Sausage Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.5
+Sausage Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
+Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce 4.0
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll 2.5
+Jelly Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 5.0
+Pastry Roll  Dark Chocolate Sauce 3.75
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Pastry Roll  Powdered Sugar Topping 3.25
+Pastry Roll  Dark Chocolate Sauce 3.75
+Pastry Roll  Dark Chocolate Sauce 3.75
+Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.0
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll  Marinara Sauce 3.5
+Jelly Roll  Powdered Sugar Topping 3.0
+Spring Roll 3.5
+Spring Roll  Shredded Carrots Topping 4.0
+Spring Roll  Mozzarella Cheese Topping  Peanut Sauce 5.0
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Jelly Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 5.0
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Powdered Sugar Topping 3.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll 2.75
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Sweet & Sour Sauce 3.75
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 6.
-Leftover Spring Rolls: 8
-Leftover Egg Rolls: 8
-Leftover Pastry Rolls: 8
-Leftover Sausage Rolls: 8
-Leftover Jelly Rolls: 8
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 15
+Leftover Sausage Rolls: 10
+Leftover Jelly Rolls: 0
+____________________ DAILY REPORT FOR DAY 6 ____________________
+Total Revenue for Spring Rolls: 17.5
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: 0.0
+Total Egg Roll Orders: 0
+Total Revenue for Pastry Rolls: 30.25
+Total Pastry Roll Orders: 11
+Total Revenue for Sausage Rolls: 24.0
+Total Sausage Roll Orders: 6
+Total Revenue for Jelly Rolls: 27.5
+Total Jelly Roll Orders: 11
+Total Revenue for Casual Customers: 23.0
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 76.25
+Total Revenue for the Day: 99.25
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 2
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 7.
-Initial Spring Rolls: 8
-Initial Egg Rolls: 8
-Initial Pastry Rolls: 8
-Initial Sausage Rolls: 8
-Initial Jelly Rolls: 8
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 15
+Initial Sausage Rolls: 10
+Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Catering Customer has arrived at the store!
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 2 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 2 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Business Customer has arrived at the store!
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 2 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Sausage Roll 4.0
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Spring Roll 3.5
+Spring Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll  Shredded Cabbage Topping 4.0
+Egg Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll 3.75
+Egg Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll  Peanut Sauce 4.75
+Egg Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.25
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce 5.5
+Sausage Roll  Peanut Sauce 5.0
+Sausage Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.5
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Sausage Roll  Dark Chocolate Sauce 5.0
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Egg Roll  Mozzarella Cheese Topping 4.25
+Egg Roll 3.75
+Egg Roll  Powdered Sugar Topping 4.25
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll  Powdered Sugar Topping 4.25
+Egg Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Powdered Sugar Topping  Peanut Sauce 4.0
+Jelly Roll  Dark Chocolate Sauce 3.5
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 7.
-Leftover Spring Rolls: 6
-Leftover Egg Rolls: 6
-Leftover Pastry Rolls: 6
-Leftover Sausage Rolls: 6
-Leftover Jelly Rolls: 6
+Leftover Spring Rolls: 14
+Leftover Egg Rolls: 12
+Leftover Pastry Rolls: 9
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 19
+____________________ DAILY REPORT FOR DAY 7 ____________________
+Total Revenue for Spring Rolls: 17.5
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: 45.0
+Total Egg Roll Orders: 12
+Total Revenue for Pastry Rolls: 0.0
+Total Pastry Roll Orders: 0
+Total Revenue for Sausage Rolls: 40.0
+Total Sausage Roll Orders: 10
+Total Revenue for Jelly Rolls: 12.5
+Total Jelly Roll Orders: 5
+Total Revenue for Casual Customers: 20.0
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 95.0
+Total Revenue for the Day: 115.0
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 1
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 8.
-Initial Spring Rolls: 6
-Initial Egg Rolls: 6
-Initial Pastry Rolls: 6
-Initial Sausage Rolls: 6
-Initial Jelly Rolls: 6
+Initial Spring Rolls: 14
+Initial Egg Rolls: 12
+Initial Pastry Rolls: 9
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 19
 
 ====================================================================================================
 
-Susan the Catering Customer has arrived at the store!
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Catering Customer has arrived at the store!
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 0 Egg, 2 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Business Customer has arrived at the store!
-Wendy purchased 1 Spring Roll Peanut Sauce.
-Wendy purchased 1 Spring Roll Peanut Sauce.
-Wendy purchased 1 Egg Roll Sweet & Sour Sauce.
-Wendy purchased 1 Egg Roll Sweet & Sour Sauce.
-Wendy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Wendy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Wendy purchased 1 Sausage Roll Marinara Sauce.
-Wendy purchased 1 Sausage Roll Marinara Sauce.
-Wendy purchased 1 Jelly Roll Cranberry Sauce.
-Wendy purchased 1 Jelly Roll Cranberry Sauce.
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Catering Customer has arrived at the store!
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 0 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 1 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+Jelly Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Cranberry Sauce 3.5
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Marinara Sauce 4.75
+Egg Roll 3.75
+Egg Roll  Mozzarella Cheese Topping 4.25
+Egg Roll 3.75
+Sausage Roll  Cranberry Sauce 5.0
+Sausage Roll 4.0
+Sausage Roll  Sweet & Sour Sauce 5.0
+Sausage Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Fruit Preserves Topping 4.25
+Egg Roll  Shredded Carrots Topping  Marinara Sauce 5.25
+Egg Roll 3.75
+Egg Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Fruit Preserves Topping  Marinara Sauce 5.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 6.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll 2.75
+Pastry Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Sausage Roll 4.0
+Sausage Roll  Fruit Preserves Topping  Cranberry Sauce 5.5
+Sausage Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 5.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Jelly Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.0
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Shredded Carrots Topping 4.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll  Dark Chocolate Sauce 3.5
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll 3.5
+Spring Roll  Powdered Sugar Topping 4.0
+Spring Roll  Marinara Sauce  Marinara Sauce 5.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Spring Roll  Shredded Cabbage Topping 4.0
+Spring Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Pastry Roll 2.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll 2.75
+Pastry Roll  Fruit Preserves Topping 3.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Pastry Roll  Shredded Cabbage Topping  Peanut Sauce 4.25
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 8.
-Leftover Spring Rolls: 2
-Leftover Egg Rolls: 2
-Leftover Pastry Rolls: 2
-Leftover Sausage Rolls: 2
-Leftover Jelly Rolls: 2
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 17
+Leftover Jelly Rolls: 4
+____________________ DAILY REPORT FOR DAY 8 ____________________
+Total Revenue for Spring Rolls: 17.5
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: 45.0
+Total Egg Roll Orders: 12
+Total Revenue for Pastry Rolls: 24.75
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: 36.0
+Total Sausage Roll Orders: 9
+Total Revenue for Jelly Rolls: 27.5
+Total Jelly Roll Orders: 11
+Total Revenue for Casual Customers: 80.75
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 70.0
+Total Revenue for the Day: 150.75
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 2
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 9.
-Initial Spring Rolls: 2
-Initial Egg Rolls: 2
-Initial Pastry Rolls: 2
-Initial Sausage Rolls: 2
-Initial Jelly Rolls: 2
+Initial Spring Rolls: 5
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 17
+Initial Jelly Rolls: 4
 
 ====================================================================================================
 
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Business Customer has arrived at the store!
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!
-
-====================================================================================================
-
+Pastry Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 5.25
+Pastry Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 4.25
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Cranberry Sauce 3.75
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Sausage Roll  Peanut Sauce 5.0
+Sausage Roll 4.0
+Sausage Roll  Cranberry Sauce 5.0
+Sausage Roll 4.0
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll 3.75
+Egg Roll  Mozzarella Cheese Topping 4.25
+Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.25
+Egg Roll  Mozzarella Cheese Topping  Marinara Sauce 5.25
+Sausage Roll  Shredded Cabbage Topping 4.5
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll 4.0
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
+Spring Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll 3.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll  Cranberry Sauce  Cranberry Sauce 5.75
+Egg Roll  Powdered Sugar Topping 4.25
+Egg Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 6.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Sausage Roll  Shredded Cabbage Topping 4.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Powdered Sugar Topping  Marinara Sauce 4.25
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll  Fruit Preserves Topping 3.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Pastry Roll 2.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Sausage Roll 4.0
+Sausage Roll 4.0
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 9.
 Leftover Spring Rolls: 0
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 0
+Leftover Egg Rolls: 17
+Leftover Pastry Rolls: 19
+Leftover Sausage Rolls: 2
+Leftover Jelly Rolls: 2
+____________________ DAILY REPORT FOR DAY 9 ____________________
+Total Revenue for Spring Rolls: 17.5
+Total Spring Roll Orders: 5
+Total Revenue for Egg Rolls: 41.25
+Total Egg Roll Orders: 11
+Total Revenue for Pastry Rolls: 24.75
+Total Pastry Roll Orders: 9
+Total Revenue for Sausage Rolls: 52.0
+Total Sausage Roll Orders: 13
+Total Revenue for Jelly Rolls: 0.0
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: 26.75
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 108.75
+Total Revenue for the Day: 135.5
+Total Casual Orders Affected by Roll Outages: 0
+Total Business Orders Affected by Roll Outages: 1
+Total Catering Orders Affected by Roll Outages: 0
+Inventory Sold Out: No
 
 ====================================================================================================
 
 Today is Day 10.
 Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Egg Rolls: 17
+Initial Pastry Rolls: 19
+Initial Sausage Rolls: 2
+Initial Jelly Rolls: 2
 
 ====================================================================================================
 
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Catering Customer has arrived at the store!
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Egg Roll 3.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Shredded Carrots Topping 4.0
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Egg Roll  Fruit Preserves Topping  Cranberry Sauce 5.25
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
+Spring Roll 3.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Spring Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Spring Roll 3.5
+Spring Roll  Shredded Cabbage Topping 4.0
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 10.
-Leftover Spring Rolls: 28
-Leftover Egg Rolls: 28
-Leftover Pastry Rolls: 28
-Leftover Sausage Rolls: 28
-Leftover Jelly Rolls: 28
-
-====================================================================================================
-
-Today is Day 11.
-Initial Spring Rolls: 28
-Initial Egg Rolls: 28
-Initial Pastry Rolls: 28
-Initial Sausage Rolls: 28
-Initial Jelly Rolls: 28
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Business Customer has arrived at the store!
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 1 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Catering Customer has arrived at the store!
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 0 Spring, 2 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 11.
-Leftover Spring Rolls: 24
-Leftover Egg Rolls: 24
-Leftover Pastry Rolls: 24
-Leftover Sausage Rolls: 24
-Leftover Jelly Rolls: 24
-
-====================================================================================================
-
-Today is Day 12.
-Initial Spring Rolls: 24
-Initial Egg Rolls: 24
-Initial Pastry Rolls: 24
-Initial Sausage Rolls: 24
-Initial Jelly Rolls: 24
-
-====================================================================================================
-
-Susan the Catering Customer has arrived at the store!
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 2 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 1 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Catering Customer has arrived at the store!
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 12.
-Leftover Spring Rolls: 18
-Leftover Egg Rolls: 18
-Leftover Pastry Rolls: 18
-Leftover Sausage Rolls: 18
-Leftover Jelly Rolls: 18
-
-====================================================================================================
-
-Today is Day 13.
-Initial Spring Rolls: 18
-Initial Egg Rolls: 18
-Initial Pastry Rolls: 18
-Initial Sausage Rolls: 18
-Initial Jelly Rolls: 18
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 1 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 1 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Catering Customer has arrived at the store!
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 0 Egg, 1 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 13.
-Leftover Spring Rolls: 16
-Leftover Egg Rolls: 16
-Leftover Pastry Rolls: 16
-Leftover Sausage Rolls: 16
-Leftover Jelly Rolls: 16
-
-====================================================================================================
-
-Today is Day 14.
-Initial Spring Rolls: 16
-Initial Egg Rolls: 16
-Initial Pastry Rolls: 16
-Initial Sausage Rolls: 16
-Initial Jelly Rolls: 16
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 2 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 1 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 1 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 14.
-Leftover Spring Rolls: 14
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 14
-Leftover Jelly Rolls: 14
-
-====================================================================================================
-
-Today is Day 15.
-Initial Spring Rolls: 14
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 14
-Initial Jelly Rolls: 14
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 1 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Catering Customer has arrived at the store!
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 2 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Business Customer has arrived at the store!
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 15.
-Leftover Spring Rolls: 8
-Leftover Egg Rolls: 8
-Leftover Pastry Rolls: 8
-Leftover Sausage Rolls: 8
-Leftover Jelly Rolls: 8
-
-====================================================================================================
-
-Today is Day 16.
-Initial Spring Rolls: 8
-Initial Egg Rolls: 8
-Initial Pastry Rolls: 8
-Initial Sausage Rolls: 8
-Initial Jelly Rolls: 8
-
-====================================================================================================
-
-Brandon the Catering Customer has arrived at the store!
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 1 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Catering Customer has arrived at the store!
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 2 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 16.
-Leftover Spring Rolls: 6
-Leftover Egg Rolls: 6
+Leftover Spring Rolls: 5
+Leftover Egg Rolls: 3
 Leftover Pastry Rolls: 6
-Leftover Sausage Rolls: 6
-Leftover Jelly Rolls: 6
-
-====================================================================================================
-
-Today is Day 17.
-Initial Spring Rolls: 6
-Initial Egg Rolls: 6
-Initial Pastry Rolls: 6
-Initial Sausage Rolls: 6
-Initial Jelly Rolls: 6
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Business Customer has arrived at the store!
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Business Customer has arrived at the store!
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Catering Customer has arrived at the store!
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!
-
-====================================================================================================
-
-
-Inventory at the end of Day 17.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 0
 Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 0
+____________________ DAILY REPORT FOR DAY 10 ____________________
+Total Revenue for Spring Rolls: 31.5
+Total Spring Roll Orders: 9
+Total Revenue for Egg Rolls: 11.25
+Total Egg Roll Orders: 3
+Total Revenue for Pastry Rolls: 5.5
+Total Pastry Roll Orders: 2
+Total Revenue for Sausage Rolls: 0.0
+Total Sausage Roll Orders: 0
+Total Revenue for Jelly Rolls: 0.0
+Total Jelly Roll Orders: 0
+Total Revenue for Casual Customers: 48.25
+Total Revenue for Business Customers: 0.0
+Total Revenue for Catering Customers: 0.0
+Total Revenue for the Day: 48.25
+Total Casual Orders Affected by Roll Outages: 2
+Total Business Orders Affected by Roll Outages: 3
+Total Catering Orders Affected by Roll Outages: 3
+Inventory Sold Out: No
 
 ====================================================================================================
 
-Today is Day 18.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
 
-====================================================================================================
-
-Boone the Catering Customer has arrived at the store!
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Catering Customer has arrived at the store!
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Business Customer has arrived at the store!
-Naomi purchased 1 Spring Roll Peanut Sauce.
-Naomi purchased 1 Spring Roll Peanut Sauce.
-Naomi purchased 1 Egg Roll Sweet & Sour Sauce.
-Naomi purchased 1 Egg Roll Sweet & Sour Sauce.
-Naomi purchased 1 Pastry Roll Dark Chocolate Sauce.
-Naomi purchased 1 Pastry Roll Dark Chocolate Sauce.
-Naomi purchased 1 Sausage Roll Marinara Sauce.
-Naomi purchased 1 Sausage Roll Marinara Sauce.
-Naomi purchased 1 Jelly Roll Cranberry Sauce.
-Naomi purchased 1 Jelly Roll Cranberry Sauce.
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 1 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Catering Customer has arrived at the store!
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Business Customer has arrived at the store!
-Wendy purchased 1 Spring Roll Peanut Sauce.
-Wendy purchased 1 Spring Roll Peanut Sauce.
-Wendy purchased 1 Egg Roll Sweet & Sour Sauce.
-Wendy purchased 1 Egg Roll Sweet & Sour Sauce.
-Wendy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Wendy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Wendy purchased 1 Sausage Roll Marinara Sauce.
-Wendy purchased 1 Sausage Roll Marinara Sauce.
-Wendy purchased 1 Jelly Roll Cranberry Sauce.
-Wendy purchased 1 Jelly Roll Cranberry Sauce.
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 18.
-Leftover Spring Rolls: 24
-Leftover Egg Rolls: 24
-Leftover Pastry Rolls: 24
-Leftover Sausage Rolls: 24
-Leftover Jelly Rolls: 24
-
-====================================================================================================
-
-Today is Day 19.
-Initial Spring Rolls: 24
-Initial Egg Rolls: 24
-Initial Pastry Rolls: 24
-Initial Sausage Rolls: 24
-Initial Jelly Rolls: 24
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 1 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Catering Customer has arrived at the store!
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Business Customer has arrived at the store!
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Spring Roll Peanut Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Egg Roll Sweet & Sour Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Sausage Roll Marinara Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-Amy purchased 1 Jelly Roll Cranberry Sauce.
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Catering Customer has arrived at the store!
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Catering Customer has arrived at the store!
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 3 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 19.
-Leftover Spring Rolls: 20
-Leftover Egg Rolls: 20
-Leftover Pastry Rolls: 20
-Leftover Sausage Rolls: 20
-Leftover Jelly Rolls: 20
-
-====================================================================================================
-
-Today is Day 20.
-Initial Spring Rolls: 20
-Initial Egg Rolls: 20
-Initial Pastry Rolls: 20
-Initial Sausage Rolls: 20
-Initial Jelly Rolls: 20
-
-====================================================================================================
-
-James the Business Customer has arrived at the store!
-James purchased 1 Spring Roll Peanut Sauce.
-James purchased 1 Spring Roll Peanut Sauce.
-James purchased 1 Egg Roll Sweet & Sour Sauce.
-James purchased 1 Egg Roll Sweet & Sour Sauce.
-James purchased 1 Pastry Roll Dark Chocolate Sauce.
-James purchased 1 Pastry Roll Dark Chocolate Sauce.
-James purchased 1 Sausage Roll Marinara Sauce.
-James purchased 1 Sausage Roll Marinara Sauce.
-James purchased 1 Jelly Roll Cranberry Sauce.
-James purchased 1 Jelly Roll Cranberry Sauce.
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 0 Spring, 2 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Catering Customer has arrived at the store!
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 1 Spring, 2 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Casual Customer has arrived at the store!
-Mason wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 2 Jelly Roll(s)
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 2 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 20.
-Leftover Spring Rolls: 18
-Leftover Egg Rolls: 18
-Leftover Pastry Rolls: 18
-Leftover Sausage Rolls: 18
-Leftover Jelly Rolls: 18
-
-====================================================================================================
-
-Today is Day 21.
-Initial Spring Rolls: 18
-Initial Egg Rolls: 18
-Initial Pastry Rolls: 18
-Initial Sausage Rolls: 18
-Initial Jelly Rolls: 18
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 2 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Catering Customer has arrived at the store!
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Business Customer has arrived at the store!
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Spring Roll Peanut Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Egg Roll Sweet & Sour Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Pastry Roll Dark Chocolate Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Sausage Roll Marinara Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon purchased 1 Jelly Roll Cranberry Sauce.
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 1 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Business Customer has arrived at the store!
-Martin purchased 1 Spring Roll Peanut Sauce.
-Martin purchased 1 Spring Roll Peanut Sauce.
-Martin purchased 1 Egg Roll Sweet & Sour Sauce.
-Martin purchased 1 Egg Roll Sweet & Sour Sauce.
-Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
-Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
-Martin purchased 1 Sausage Roll Marinara Sauce.
-Martin purchased 1 Sausage Roll Marinara Sauce.
-Martin purchased 1 Jelly Roll Cranberry Sauce.
-Martin purchased 1 Jelly Roll Cranberry Sauce.
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 21.
-Leftover Spring Rolls: 14
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 14
-Leftover Jelly Rolls: 14
-
-====================================================================================================
-
-Today is Day 22.
-Initial Spring Rolls: 14
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 14
-Initial Jelly Rolls: 14
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 22.
-Leftover Spring Rolls: 12
-Leftover Egg Rolls: 12
-Leftover Pastry Rolls: 12
-Leftover Sausage Rolls: 12
-Leftover Jelly Rolls: 12
-
-====================================================================================================
-
-Today is Day 23.
-Initial Spring Rolls: 12
-Initial Egg Rolls: 12
-Initial Pastry Rolls: 12
-Initial Sausage Rolls: 12
-Initial Jelly Rolls: 12
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Business Customer has arrived at the store!
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Spring Roll Peanut Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Egg Roll Sweet & Sour Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Pastry Roll Dark Chocolate Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Sausage Roll Marinara Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy purchased 1 Jelly Roll Cranberry Sauce.
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 23.
-Leftover Spring Rolls: 10
-Leftover Egg Rolls: 10
-Leftover Pastry Rolls: 10
-Leftover Sausage Rolls: 10
-Leftover Jelly Rolls: 10
-
-====================================================================================================
-
-Today is Day 24.
-Initial Spring Rolls: 10
-Initial Egg Rolls: 10
-Initial Pastry Rolls: 10
-Initial Sausage Rolls: 10
-Initial Jelly Rolls: 10
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Business Customer has arrived at the store!
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Business Customer has arrived at the store!
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Catering Customer has arrived at the store!
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 1 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 24.
-Leftover Spring Rolls: 4
-Leftover Egg Rolls: 4
-Leftover Pastry Rolls: 4
-Leftover Sausage Rolls: 4
-Leftover Jelly Rolls: 4
-
-====================================================================================================
-
-Today is Day 25.
-Initial Spring Rolls: 4
-Initial Egg Rolls: 4
-Initial Pastry Rolls: 4
-Initial Sausage Rolls: 4
-Initial Jelly Rolls: 4
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 2 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 1 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Business Customer has arrived at the store!
-Martin purchased 1 Spring Roll Peanut Sauce.
-Martin purchased 1 Spring Roll Peanut Sauce.
-Martin purchased 1 Egg Roll Sweet & Sour Sauce.
-Martin purchased 1 Egg Roll Sweet & Sour Sauce.
-Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
-Martin purchased 1 Pastry Roll Dark Chocolate Sauce.
-Martin purchased 1 Sausage Roll Marinara Sauce.
-Martin purchased 1 Sausage Roll Marinara Sauce.
-Martin purchased 1 Jelly Roll Cranberry Sauce.
-Martin purchased 1 Jelly Roll Cranberry Sauce.
-THE STORE IS CURRENTLY SOLD OUT OF ROLLS AND IS CLOSING! See you tomorrow!
-
-====================================================================================================
-
-
-Inventory at the end of Day 25.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 0
-
-====================================================================================================
-
-Today is Day 26.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Casual Customer has arrived at the store!
-Chad wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Business Customer has arrived at the store!
-Naomi purchased 1 Spring Roll Peanut Sauce.
-Naomi purchased 1 Spring Roll Peanut Sauce.
-Naomi purchased 1 Egg Roll Sweet & Sour Sauce.
-Naomi purchased 1 Egg Roll Sweet & Sour Sauce.
-Naomi purchased 1 Pastry Roll Dark Chocolate Sauce.
-Naomi purchased 1 Pastry Roll Dark Chocolate Sauce.
-Naomi purchased 1 Sausage Roll Marinara Sauce.
-Naomi purchased 1 Sausage Roll Marinara Sauce.
-Naomi purchased 1 Jelly Roll Cranberry Sauce.
-Naomi purchased 1 Jelly Roll Cranberry Sauce.
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 2 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 1 Spring, 0 Egg, 0 Pastry, 2 Sausage, & 0 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Business Customer has arrived at the store!
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Spring Roll Peanut Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Egg Roll Sweet & Sour Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Pastry Roll Dark Chocolate Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Sausage Roll Marinara Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone purchased 1 Jelly Roll Cranberry Sauce.
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Catering Customer has arrived at the store!
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Catering Customer has arrived at the store!
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Catering Customer has arrived at the store!
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 2 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 26.
-Leftover Spring Rolls: 26
-Leftover Egg Rolls: 26
-Leftover Pastry Rolls: 26
-Leftover Sausage Rolls: 26
-Leftover Jelly Rolls: 26
-
-====================================================================================================
-
-Today is Day 27.
-Initial Spring Rolls: 26
-Initial Egg Rolls: 26
-Initial Pastry Rolls: 26
-Initial Sausage Rolls: 26
-Initial Jelly Rolls: 26
-
-====================================================================================================
-
-Mason the Catering Customer has arrived at the store!
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 2 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 1 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Catering Customer has arrived at the store!
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Karen the Catering Customer has arrived at the store!
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Business Customer has arrived at the store!
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Spring Roll Peanut Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Egg Roll Sweet & Sour Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Pastry Roll Dark Chocolate Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Sausage Roll Marinara Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane purchased 1 Jelly Roll Cranberry Sauce.
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 27.
-Leftover Spring Rolls: 24
-Leftover Egg Rolls: 24
-Leftover Pastry Rolls: 24
-Leftover Sausage Rolls: 24
-Leftover Jelly Rolls: 24
-
-====================================================================================================
-
-Today is Day 28.
-Initial Spring Rolls: 24
-Initial Egg Rolls: 24
-Initial Pastry Rolls: 24
-Initial Sausage Rolls: 24
-Initial Jelly Rolls: 24
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Business Customer has arrived at the store!
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Spring Roll Peanut Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Egg Roll Sweet & Sour Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Pastry Roll Dark Chocolate Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Sausage Roll Marinara Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver purchased 1 Jelly Roll Cranberry Sauce.
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Casual Customer has arrived at the store!
-Adam wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Casual Customer has arrived at the store!
-Susan wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Casual Customer has arrived at the store!
-Mary wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 0 Spring, 1 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Catering Customer has arrived at the store!
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 1 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Catering Customer has arrived at the store!
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 0 Spring, 2 Egg, 0 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Casual Customer has arrived at the store!
-Wendy wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 28.
-Leftover Spring Rolls: 22
-Leftover Egg Rolls: 22
-Leftover Pastry Rolls: 22
-Leftover Sausage Rolls: 22
-Leftover Jelly Rolls: 22
-
-====================================================================================================
-
-Today is Day 29.
-Initial Spring Rolls: 22
-Initial Egg Rolls: 22
-Initial Pastry Rolls: 22
-Initial Sausage Rolls: 22
-Initial Jelly Rolls: 22
-
-====================================================================================================
-
-Karen the Casual Customer has arrived at the store!
-Karen wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Karen has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Casual Customer has arrived at the store!
-Jane wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Catering Customer has arrived at the store!
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Casual Customer has arrived at the store!
-Ellie wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Catering Customer has arrived at the store!
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Naomi the Casual Customer has arrived at the store!
-Naomi wants to purchase 1 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Naomi has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mary the Business Customer has arrived at the store!
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Spring Roll Peanut Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Egg Roll Sweet & Sour Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Sausage Roll Marinara Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary purchased 1 Jelly Roll Cranberry Sauce.
-Mary has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 0 Spring, 1 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Business Customer has arrived at the store!
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Spring Roll Peanut Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Egg Roll Sweet & Sour Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Pastry Roll Dark Chocolate Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Sausage Roll Marinara Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam purchased 1 Jelly Roll Cranberry Sauce.
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 1 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Wendy the Catering Customer has arrived at the store!
-Wendy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Business Customer has arrived at the store!
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Spring Roll Peanut Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Egg Roll Sweet & Sour Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Sausage Roll Marinara Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia purchased 1 Jelly Roll Cranberry Sauce.
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Boone the Casual Customer has arrived at the store!
-Boone wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Boone has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-
-Inventory at the end of Day 29.
-Leftover Spring Rolls: 16
-Leftover Egg Rolls: 16
-Leftover Pastry Rolls: 16
-Leftover Sausage Rolls: 16
-Leftover Jelly Rolls: 16
-
-====================================================================================================
-
-Today is Day 30.
-Initial Spring Rolls: 16
-Initial Egg Rolls: 16
-Initial Pastry Rolls: 16
-Initial Sausage Rolls: 16
-Initial Jelly Rolls: 16
-
-====================================================================================================
-
-Brandon the Casual Customer has arrived at the store!
-Brandon wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Brandon has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Amy the Casual Customer has arrived at the store!
-Amy wants to purchase 1 Spring, 0 Egg, 0 Pastry, 0 Sausage, & 1 Jelly Roll(s)
-Amy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Cathy the Casual Customer has arrived at the store!
-Cathy wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Cathy has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Oliver the Casual Customer has arrived at the store!
-Oliver wants to purchase 0 Spring, 0 Egg, 1 Pastry, 1 Sausage, & 0 Jelly Roll(s)
-Oliver has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Jane the Catering Customer has arrived at the store!
-Jane has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Susan the Business Customer has arrived at the store!
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Spring Roll Peanut Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Egg Roll Sweet & Sour Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Pastry Roll Dark Chocolate Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Sausage Roll Marinara Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan purchased 1 Jelly Roll Cranberry Sauce.
-Susan has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Adam the Catering Customer has arrived at the store!
-Adam has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Chad the Catering Customer has arrived at the store!
-Chad has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mason the Business Customer has arrived at the store!
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Spring Roll Peanut Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Egg Roll Sweet & Sour Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Pastry Roll Dark Chocolate Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Sausage Roll Marinara Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason purchased 1 Jelly Roll Cranberry Sauce.
-Mason has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Martin the Casual Customer has arrived at the store!
-Martin wants to purchase 0 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Martin has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Ellie the Business Customer has arrived at the store!
-Ellie purchased 1 Spring Roll Peanut Sauce.
-Ellie purchased 1 Spring Roll Peanut Sauce.
-Ellie purchased 1 Egg Roll Sweet & Sour Sauce.
-Ellie purchased 1 Egg Roll Sweet & Sour Sauce.
-Ellie purchased 1 Pastry Roll Dark Chocolate Sauce.
-Ellie purchased 1 Pastry Roll Dark Chocolate Sauce.
-Ellie purchased 1 Sausage Roll Marinara Sauce.
-Ellie purchased 1 Sausage Roll Marinara Sauce.
-Ellie purchased 1 Jelly Roll Cranberry Sauce.
-Ellie purchased 1 Jelly Roll Cranberry Sauce.
-Ellie has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-Mia the Casual Customer has arrived at the store!
-Mia wants to purchase 1 Spring, 0 Egg, 1 Pastry, 0 Sausage, & 0 Jelly Roll(s)
-Mia has left the store. Thank you and have a great day!
-
-====================================================================================================
-
-James the Casual Customer has arrived at the store!
-James wants to purchase 0 Spring, 0 Egg, 0 Pastry, 1 Sausage, & 1 Jelly Roll(s)
-James has left the store. Thank you and have a great day!
-
-====================================================================================================
-
+============================================End Simulation==========================================
 
-Inventory at the end of Day 30.
-Leftover Spring Rolls: 10
-Leftover Egg Rolls: 10
-Leftover Pastry Rolls: 10
-Leftover Sausage Rolls: 10
-Leftover Jelly Rolls: 10
 
 ====================================================================================================
 
+_______________ LIFETIME REPORT _______________

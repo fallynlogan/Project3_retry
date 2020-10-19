@@ -1,5 +1,6 @@
 package restaurant;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class BusinessCustomer implements Customer {
@@ -19,12 +20,12 @@ public class BusinessCustomer implements Customer {
                 purchase.put("Jelly Roll", 2);
                 //System.out.println("Business Customer: ");
                 //System.out.println("Original Purchase: " + purchase);
-                restaurant.requestPurchase(purchase);
+                restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
             {
-                numAffectedByOutage ++;
                 System.out.println("NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER");
+                restaurant.cashier.businessRollOutages++;
                 return;
             }
 

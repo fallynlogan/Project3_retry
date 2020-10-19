@@ -1,9 +1,6 @@
 package restaurant;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 
 public class CateringCustomer implements Customer {
     public int numAffectedByOutage = 0;
@@ -28,7 +25,7 @@ public class CateringCustomer implements Customer {
                 purchase.put(roll3, 5);
                 //System.out.println("Catering Customer: ");
                 //System.out.println("Original Purchase: " + purchase);
-                restaurant.requestPurchase(purchase);
+                restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
             {
@@ -36,7 +33,7 @@ public class CateringCustomer implements Customer {
                 HashMap<String, Integer> remainingInventoryItems = ex.getRemainingInventoryItems();
                 HashMap<String, Integer> newOrder = new HashMap<String, Integer>();
                 int rollsNeeded = 0;
-                numAffectedByOutage++;
+                restaurant.cashier.cateringRollOutages++;
 
                 Iterator<Map.Entry<String, Integer>> it = remainingOrderItems.entrySet().iterator();
                 while (it.hasNext())

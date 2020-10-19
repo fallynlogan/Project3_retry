@@ -1,9 +1,6 @@
 package restaurant;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 
 public class CasualCustomer implements Customer {
     public int numAffectedByOutage = 0;
@@ -23,7 +20,7 @@ public class CasualCustomer implements Customer {
                 purchase.put(rollType, numRolls);
                 System.out.println("Casual Customer: ");
                 System.out.println("Original Purchase: " + purchase);
-                restaurant.requestPurchase(purchase);
+                restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
             {
@@ -32,7 +29,7 @@ public class CasualCustomer implements Customer {
                 // assuming only one thing in the hashmap, get that thing
                 Map.Entry<String, Integer> pair = purchase.entrySet().iterator().next();
                 HashMap<String, Integer> newOrder = new HashMap<String, Integer>();
-                numAffectedByOutage++;
+                restaurant.cashier.casualRollOutages++;
                 // case: requesting 3 rolls of type X, but only 2/1 rolls of type X in inventory.
                 if(purchase.get(pair.getKey()) > remainingOrderItems.get(pair.getKey()))
                 {
