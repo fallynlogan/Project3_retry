@@ -22,6 +22,7 @@ public class Cashier extends Observer {
 
     public Cashier(Restaurant restaurant)
     {
+        resetDailyReportValues();
         this.restaurant = restaurant;
         this.restaurant.attach(this);
         this.allTimeSpringOrders = 0; this.allTimeEggOrders = 0; this.allTimePastryOrders = 0; this.allTimeSausageOrders = 0; this.allTimeJellyOrders = 0;
@@ -70,7 +71,7 @@ public class Cashier extends Observer {
         System.out.println("Total Revenue for Casual Customers: " + dailyCasualRevenue);
         System.out.println("Total Revenue for Business Customers: " + dailyBusinessRevenue);
         System.out.println("Total Revenue for Catering Customers: " + dailyCateringRevenue);
-        System.out.println("Total Revenue for the Day: " + (dailyCasualRevenue + dailyBusinessRevenue + dailyCateringRevenue));
+        System.out.println("Total Revenue for the Day: " + dailyTotalRevenue);
 
         System.out.println("Total Casual Orders Affected by Roll Outages: " + casualRollOutages);
         System.out.println("Total Business Orders Affected by Roll Outages: " + businessRollOutages);
@@ -109,27 +110,27 @@ public class Cashier extends Observer {
             orderTotal = 0;
             for(int i=0 ; i<currentOrder.size()  ; i++){
                 orderTotal += currentOrder.get(i).cost();
-                if(currentOrder.get(i).getDescription() == "Spring Roll"){
+                if(currentOrder.get(i).getDescription().contains("Spring Roll")){
                     dailySpringOrders++;
                     allTimeSpringOrders++;
                     dailySpringRevenue += currentOrder.get(i).cost();
                 }
-                if(currentOrder.get(i).getDescription() == "Egg Roll"){
+                if(currentOrder.get(i).getDescription().contains("Egg Roll")){
                     dailyEggOrders++;
                     allTimeEggOrders++;
                     dailyEggRevenue += currentOrder.get(i).cost();
                 }
-                if(currentOrder.get(i).getDescription() == "Pastry Roll"){
+                if(currentOrder.get(i).getDescription().contains("Pastry Roll")){
                     dailyPastryOrders++;
                     allTimePastryOrders++;
                     dailyPastryRevenue += currentOrder.get(i).cost();
                 }
-                if(currentOrder.get(i).getDescription() == "Sausage Roll"){
+                if(currentOrder.get(i).getDescription().contains("Sausage Roll")){
                     dailySausageOrders++;
                     allTimeSausageOrders++;
                     dailySausageRevenue += currentOrder.get(i).cost();
                 }
-                if(currentOrder.get(i).getDescription() == "Jelly Roll"){
+                if(currentOrder.get(i).getDescription().contains("Jelly Roll")){
                     dailyJellyOrders++;
                     allTimeJellyOrders++;
                     dailyJellyRevenue += currentOrder.get(i).cost();

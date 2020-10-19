@@ -24,6 +24,7 @@ public class CasualCustomer implements Customer {
                 break;
             } catch(OrderNotFilledException ex)
             {
+                System.out.println("CASUAL ORDER NOT FULFILLED");
                 HashMap<String, Integer> remainingOrderItems = ex.getRemainingOrderItems();
                 HashMap<String, Integer> remainingInventoryItems = ex.getRemainingInventoryItems();
                 // assuming only one thing in the hashmap, get that thing

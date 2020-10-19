@@ -49,9 +49,8 @@ public class Restaurant {
             System.out.println("Initial Jelly Rolls: " + inventory.get("Jelly Roll"));
             System.out.println("\n====================================================================================================\n");
 
-            //reset cashier values
-            cashier.resetDailyReportValues();
             dailyCustomerOrders = new HashMap<Customer,ArrayList<FoodItem>>();
+            cashier.resetDailyReportValues();
 
             //get dailyCustomers
             dailyCustomers = CustomerFactory.getCustomers();
@@ -64,12 +63,12 @@ public class Restaurant {
 
                 if(checkInventorySoldOut())
                 {
+                    notifyAllObservers();
                     cashier.printDailyReport(i);
                     System.out.println("\n================================Store Closing All Sold Out!====================================\n");
                     break;
                 }
             }
-            notifyAllObservers();
             //print out the inventory at the end of each day by type
             System.out.println("\nInventory at the end of Day " + i + ".");
             System.out.println("Leftover Spring Rolls: " + inventory.get("Spring Roll"));
@@ -77,6 +76,7 @@ public class Restaurant {
             System.out.println("Leftover Pastry Rolls: " + inventory.get("Pastry Roll"));
             System.out.println("Leftover Sausage Rolls: " + inventory.get("Sausage Roll"));
             System.out.println("Leftover Jelly Rolls: " + inventory.get("Jelly Roll"));
+            notifyAllObservers();
             cashier.printDailyReport(i);
             //System.out.println("\n====================================================================================================\n");
         }
@@ -189,7 +189,7 @@ public class Restaurant {
 
                 roll = new SauceDecorator(roll, fillings[filling]);
             }
-
+            order.set(i,roll);
             System.out.println(roll.getDescription() + " " + roll.cost());
         }
 

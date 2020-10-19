@@ -23,8 +23,8 @@ public class CateringCustomer implements Customer {
                 purchase.put(roll1, 5);
                 purchase.put(roll2, 5);
                 purchase.put(roll3, 5);
-                //System.out.println("Catering Customer: ");
-                //System.out.println("Original Purchase: " + purchase);
+                System.out.println("Catering Customer: ");
+                System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)

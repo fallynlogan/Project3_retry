@@ -18,4 +18,5 @@ public class FoodItemDecorator implements FoodItem {
     {
         return decoratedFoodItem.cost();
     }
+
 }

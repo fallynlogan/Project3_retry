@@ -18,8 +18,8 @@ public class BusinessCustomer implements Customer {
                 purchase.put("Sausage Roll", 2);
                 purchase.put("Pastry Roll", 2);
                 purchase.put("Jelly Roll", 2);
-                //System.out.println("Business Customer: ");
-                //System.out.println("Original Purchase: " + purchase);
+                System.out.println("Business Customer: ");
+                System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
