@@ -3,14 +3,15 @@ package restaurant;
 import java.util.*;
 
 public class CasualCustomer implements Customer {
-    public int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
         while(true)
         {
+            if(restaurant.checkInventorySoldOut()){
+                break;
+            }
             HashMap<String, Integer> purchase = new HashMap<String, Integer>();
-
             try
             {
                 String[] rolls = {"Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll"};

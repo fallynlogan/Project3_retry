@@ -3,6 +3,7 @@ package restaurant;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Map;
+import java.text.DecimalFormat;
 
 public class Cashier extends Observer {
     
@@ -46,32 +47,34 @@ public class Cashier extends Observer {
     }
 
     public void printDailyReport(int dayNum){
-        System.out.println("____________________ DAILY REPORT FOR DAY " + dayNum + " ____________________");
+        DecimalFormat df = new DecimalFormat("#.00");
+
+        System.out.println("\n____________________ DAILY REPORT FOR DAY " + dayNum + " ____________________");
 
         //System.out.println("Leftover Spring Rolls: " + restaurant.inventory.get("Spring Roll"));
-        System.out.println("Total Revenue for Spring Rolls: " + dailySpringRevenue);
+        System.out.println("Total Revenue for Spring Rolls: $" + df.format(dailySpringRevenue));
         System.out.println("Total Spring Roll Orders: " + dailySpringOrders);
 
         //System.out.println("Leftover Egg Rolls: " + restaurant.inventory.get("Egg Roll"));
-        System.out.println("Total Revenue for Egg Rolls: " + dailyEggRevenue);
+        System.out.println("Total Revenue for Egg Rolls: $" + df.format(dailyEggRevenue));
         System.out.println("Total Egg Roll Orders: " + dailyEggOrders);
 
         //System.out.println("Leftover Pastry Rolls: " + restaurant.inventory.get("Pastry Roll"));
-        System.out.println("Total Revenue for Pastry Rolls: " + dailyPastryRevenue);
+        System.out.println("Total Revenue for Pastry Rolls: $" + df.format(dailyPastryRevenue));
         System.out.println("Total Pastry Roll Orders: " + dailyPastryOrders);
 
         //System.out.println("Leftover Sausage Rolls: " + restaurant.inventory.get("Sausage Roll"));
-        System.out.println("Total Revenue for Sausage Rolls: " + dailySausageRevenue);
+        System.out.println("Total Revenue for Sausage Rolls: $" + df.format(dailySausageRevenue));
         System.out.println("Total Sausage Roll Orders: " + dailySausageOrders);
 
         //System.out.println("Leftover Jelly Rolls: " + restaurant.inventory.get("Jelly Roll"));
-        System.out.println("Total Revenue for Jelly Rolls: " + dailyJellyRevenue);
+        System.out.println("Total Revenue for Jelly Rolls: $" + df.format(dailyJellyRevenue));
         System.out.println("Total Jelly Roll Orders: " + dailyJellyOrders);
 
-        System.out.println("Total Revenue for Casual Customers: " + dailyCasualRevenue);
-        System.out.println("Total Revenue for Business Customers: " + dailyBusinessRevenue);
-        System.out.println("Total Revenue for Catering Customers: " + dailyCateringRevenue);
-        System.out.println("Total Revenue for the Day: " + dailyTotalRevenue);
+        System.out.println("Total Revenue for Casual Customers: $" + df.format(dailyCasualRevenue));
+        System.out.println("Total Revenue for Business Customers: $" + df.format(dailyBusinessRevenue));
+        System.out.println("Total Revenue for Catering Customers: $" + df.format(dailyCateringRevenue));
+        System.out.println("Total Revenue for the Day: $" + df.format(dailyTotalRevenue));
 
         System.out.println("Total Casual Orders Affected by Roll Outages: " + casualRollOutages);
         System.out.println("Total Business Orders Affected by Roll Outages: " + businessRollOutages);
@@ -87,7 +90,7 @@ public class Cashier extends Observer {
 
     public void printLifetimeReport(){
 
-        System.out.println("_________________________ LIFETIME REPORT _________________________");
+        System.out.println("\n_________________________ LIFETIME REPORT _________________________");
         System.out.println("Total Spring Roll Orders: " + allTimeSpringOrders);
         System.out.println("Total Egg Roll Orders: " + allTimeEggOrders);
         System.out.println("Total Pastry Roll Orders: " + allTimePastryOrders);

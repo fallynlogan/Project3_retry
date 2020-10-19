@@ -1,4 +1,5 @@
 package restaurant;
+import java.text.DecimalFormat;
 import java.util.*;
 
 public class Restaurant {
@@ -25,6 +26,7 @@ public class Restaurant {
         {
             //Day number
             System.out.println("Today is Day " + i + ".");
+            System.out.println("\n====================================================================================================\n");
             //reset rolls at beggining of day if they are 0
             if(inventory.get("Spring Roll")==0){
                 inventory.put("Spring Roll", numRolls);
@@ -63,6 +65,7 @@ public class Restaurant {
 
                 if(checkInventorySoldOut())
                 {
+                    cashier.earlyClosure = true;
                     notifyAllObservers();
                     cashier.printDailyReport(i);
                     System.out.println("\n================================Store Closing All Sold Out!====================================\n");
@@ -154,7 +157,7 @@ public class Restaurant {
 
     public void decorateRolls(ArrayList<FoodItem> order)
     {
-
+        DecimalFormat df = new DecimalFormat("#.00");
         //go through each element in array list
         for(int i = 0; i< order.size(); i++)
         {
@@ -162,9 +165,10 @@ public class Restaurant {
             FoodItem roll = order.get(i);
             roll = decorateSingleRoll(roll);
             order.set(i,roll);
-            System.out.println(roll.getDescription() + " " + roll.cost());
+            System.out.println(roll.getDescription() + " @ $" + df.format(roll.cost()));
         }
-
+        System.out.println("Order complete!");
+        System.out.println("====================================================================================================");
     }
 
     public FoodItem decorateSingleRoll(FoodItem roll){
@@ -225,7 +229,6 @@ public class Restaurant {
                 return false;
             }
         }
-        notifyAllObservers();
         return true;
     }
 

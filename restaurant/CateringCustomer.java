@@ -3,7 +3,6 @@ package restaurant;
 import java.util.*;
 
 public class CateringCustomer implements Customer {
-    public int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
