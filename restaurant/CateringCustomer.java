@@ -6,24 +6,23 @@ public class CateringCustomer implements Customer {
 
     @Override
     public void purchase(Restaurant restaurant) {
+        HashMap<String, Integer> purchase = new HashMap<String, Integer>();
+        Random rand = new Random();
+        List<String> rolls = Arrays.asList("Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll");
+
         while(true)
         {
-            HashMap<String, Integer> purchase = new HashMap<String, Integer>();
+            Collections.shuffle(rolls,rand);
+            String roll1 = rolls.get(0);
+            String roll2 = rolls.get(1);
+            String roll3 = rolls.get(2);
+            purchase.put(roll1, 5);
+            purchase.put(roll2, 5);
+            purchase.put(roll3, 5);
+            System.out.println("Catering Customer: ");
+            System.out.println("Original Purchase: " + purchase);
             try
             {
-                String[] rolls = {"Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll"};
-                int rnd = new Random().nextInt(rolls.length);
-                int rnd2 = new Random().nextInt(rolls.length);
-                int rnd3 = new Random().nextInt(rolls.length);
-
-                String roll1 = rolls[rnd];
-                String roll2 = rolls[rnd2];
-                String roll3 = rolls[rnd3];
-                purchase.put(roll1, 5);
-                purchase.put(roll2, 5);
-                purchase.put(roll3, 5);
-                System.out.println("Catering Customer: ");
-                System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase,this);
                 break;
             } catch(OrderNotFilledException ex)
@@ -67,6 +66,7 @@ public class CateringCustomer implements Customer {
                 {
                     //This isnt working right
                     System.out.println("NOT ENOUGH INVENTORY TO FILL CATERING ORDER");
+                    System.out.println("====================================================================================================");
                     break;
                 }
                 purchase = newOrder;
